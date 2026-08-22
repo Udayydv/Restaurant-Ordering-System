@@ -1,0 +1,80 @@
+[
+  {
+    "name": "paneer",
+    "description": "Paneer & Main Course",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "thali",
+    "description": "Thalis",
+    "isActive": true,
+    "sortOrder": 1
+  },
+  {
+    "name": "rice",
+    "description": "Rice",
+    "isActive": true,
+    "sortOrder": 2
+  },
+  {
+    "name": "paratha",
+    "description": "Paratha",
+    "isActive": true,
+    "sortOrder": 3
+  },
+  {
+    "name": "roti",
+    "description": "Roti & Poori",
+    "isActive": true,
+    "sortOrder": 4
+  },
+  {
+    "name": "aloo",
+    "description": "Aloo Specials",
+    "isActive": true,
+    "sortOrder": 5
+  },
+  {
+    "name": "snacks",
+    "description": "Snacks",
+    "isActive": true,
+    "sortOrder": 6
+  },
+  {
+    "name": "chinese",
+    "description": "Chinese",
+    "isActive": true,
+    "sortOrder": 7
+  },
+  {
+    "name": "veg",
+    "description": "Veg Specials",
+    "isActive": true,
+    "sortOrder": 8
+  },
+  {
+    "name": "dal",
+    "description": "Dal",
+    "isActive": true,
+    "sortOrder": 9
+  },
+  {
+    "name": "maggi",
+    "description": "Maggi",
+    "isActive": true,
+    "sortOrder": 10
+  },
+  {
+    "name": "beverages",
+    "description": "Tea & Coffee",
+    "isActive": true,
+    "sortOrder": 11
+  },
+  {
+    "name": "raita",
+    "description": "Raita",
+    "isActive": true,
+    "sortOrder": 12
+  }
+]

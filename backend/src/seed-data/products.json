@@ -1,0 +1,787 @@
+[
+  {
+    "slug": "shahi-paneer",
+    "name": "Shahi Paneer",
+    "description": "Soft paneer in a rich, mildly sweet cashew-cream gravy.",
+    "category": "paneer",
+    "prices": {
+      "half": 90.0,
+      "full": 130.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "mughlai-paneer",
+    "name": "Mughlai Paneer",
+    "description": "Royal Mughlai style paneer in a nutty, creamy yellow gravy.",
+    "category": "paneer",
+    "prices": {
+      "half": 140.0,
+      "full": 250.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "chilli-paneer",
+    "name": "Chilli Paneer",
+    "description": "Crisp paneer tossed with capsicum, onion and green chilli.",
+    "category": "paneer",
+    "prices": {
+      "half": 160.0,
+      "full": 280.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true
+  },
+  {
+    "slug": "paneer-butter-masala",
+    "name": "Paneer Butter Masala",
+    "description": "Buttery tomato gravy with kasuri methi and fresh paneer.",
+    "category": "paneer",
+    "prices": {
+      "half": 100.0,
+      "full": 150.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "kadai-paneer",
+    "name": "Kadai Paneer",
+    "description": "Paneer cooked in freshly pounded kadai masala with capsicum.",
+    "category": "paneer",
+    "prices": {
+      "half": 90.0,
+      "full": 140.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": false
+  },
+  {
+    "slug": "paneer-korma",
+    "name": "Paneer Korma",
+    "description": "Slow-cooked korma gravy, delicate and lightly spiced.",
+    "category": "paneer",
+    "prices": {
+      "half": 150.0,
+      "full": 260.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "paneer-kali-mirch",
+    "name": "Paneer Kali Mirch",
+    "description": "White pepper-forward creamy gravy with soft paneer cubes.",
+    "category": "paneer",
+    "prices": {
+      "half": 130.0,
+      "full": 230.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "paneer-changezi",
+    "name": "Paneer Changezi",
+    "description": "Bold, spicy Changezi masala with a swirl of cream.",
+    "category": "paneer",
+    "prices": {
+      "half": 140.0,
+      "full": 250.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "paneer-bhujia",
+    "name": "Paneer Bhujia",
+    "description": "Crumbled paneer bhurji with onion, tomato and coriander.",
+    "category": "paneer",
+    "prices": {
+      "half": 100.0,
+      "full": 150.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "matar-paneer",
+    "name": "Matar Paneer",
+    "description": "Everyday favourite — green peas and paneer in tomato gravy.",
+    "category": "paneer",
+    "prices": {
+      "half": 80.0,
+      "full": 120.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true
+  },
+  {
+    "slug": "paneer-do-pyaza",
+    "name": "Paneer Do Pyaza",
+    "description": "Paneer with double onion in a thick semi-dry masala.",
+    "category": "paneer",
+    "prices": {
+      "half": 90.0,
+      "full": 130.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "malai-paneer",
+    "name": "Malai Paneer",
+    "description": "Silky white malai gravy, rich and comforting.",
+    "category": "paneer",
+    "prices": {
+      "half": 170.0,
+      "full": 320.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "paneer-pakoda",
+    "name": "Paneer Pakoda",
+    "description": "5 pieces of besan-coated paneer fritters with green chutney.",
+    "category": "paneer",
+    "prices": {
+      "half": 70.0,
+      "full": 130.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "paneer-kurkure",
+    "name": "Paneer Kurkure",
+    "description": "5 pieces of crunchy crumb-coated paneer fingers.",
+    "category": "paneer",
+    "prices": {
+      "half": 80.0,
+      "full": 150.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "paneer-manchurian",
+    "name": "Paneer Manchurian",
+    "description": "Fried paneer tossed in glossy Manchurian sauce.",
+    "category": "paneer",
+    "prices": {
+      "half": 120.0,
+      "full": 200.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "dal-fry",
+    "name": "Dal Fry",
+    "description": "Yellow dal finished with a sizzling cumin-chilli tadka.",
+    "category": "dal",
+    "prices": {
+      "half": 30.0,
+      "full": 70.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true
+  },
+  {
+    "slug": "dal-punjabi-tadka",
+    "name": "Dal Punjabi Tadka",
+    "description": "Thick Punjabi-style dal with a heavy ghee-garlic tadka.",
+    "category": "dal",
+    "prices": {
+      "half": 80.0,
+      "full": 140.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "mix-veg",
+    "name": "Mix Veg",
+    "description": "Seasonal vegetables cooked together in homely masala.",
+    "category": "veg",
+    "prices": {
+      "half": 70.0,
+      "full": 130.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "veg-kadai",
+    "name": "Veg Kadai",
+    "description": "Mixed vegetables in a spicy freshly ground kadai masala.",
+    "category": "veg",
+    "prices": {
+      "half": 140.0,
+      "full": 250.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "veg-kofta",
+    "name": "Veg Kofta",
+    "description": "Vegetable dumplings simmered in onion-tomato gravy.",
+    "category": "veg",
+    "prices": {
+      "half": 100.0,
+      "full": 190.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "malai-kofta",
+    "name": "Malai Kofta",
+    "description": "Soft paneer-potato koftas in a creamy white gravy.",
+    "category": "veg",
+    "prices": {
+      "half": 100.0,
+      "full": 180.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": false
+  },
+  {
+    "slug": "mushroom-masala",
+    "name": "Mushroom Masala",
+    "description": "Button mushrooms in a thick brown onion-tomato masala.",
+    "category": "veg",
+    "prices": {
+      "half": 90.0,
+      "full": 140.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "mushroom-matar",
+    "name": "Mushroom Matar",
+    "description": "Mushroom and green peas in a light tomato gravy.",
+    "category": "veg",
+    "prices": {
+      "half": 80.0,
+      "full": 130.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "kadai-mushroom",
+    "name": "Kadai Mushroom",
+    "description": "Mushrooms tossed with capsicum in kadai masala.",
+    "category": "veg",
+    "prices": {
+      "half": 100.0,
+      "full": 130.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "mushroom-do-pyaza",
+    "name": "Mushroom Do Pyaza",
+    "description": "Mushrooms with generous onion petals, semi-dry.",
+    "category": "veg",
+    "prices": {
+      "half": 80.0,
+      "full": 120.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "sev-bhaji",
+    "name": "Sev Bhaji",
+    "description": "Spicy curry topped with crunchy besan sev.",
+    "category": "veg",
+    "prices": {
+      "half": 120.0,
+      "full": 220.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "papad-korma",
+    "name": "Papad Korma",
+    "description": "Roasted papad simmered in a creamy korma gravy.",
+    "category": "veg",
+    "prices": {
+      "half": 110.0,
+      "full": 200.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "jeera-aloo",
+    "name": "Jeera Aloo",
+    "description": "Potato cubes tempered with cumin and turmeric.",
+    "category": "aloo",
+    "prices": {
+      "half": 30.0,
+      "full": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "aloo-do-pyaza",
+    "name": "Aloo Do Pyaza",
+    "description": "Potatoes cooked with plenty of onion, semi-dry.",
+    "category": "aloo",
+    "prices": {
+      "half": 80.0,
+      "full": 150.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "masala-aloo",
+    "name": "Masala Aloo",
+    "description": "Spicy red masala coated potatoes, dhaba style.",
+    "category": "aloo",
+    "prices": {
+      "half": 60.0,
+      "full": 110.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "aloo-dum",
+    "name": "Aloo Dum",
+    "description": "Baby potatoes slow-cooked in a rich spicy gravy.",
+    "category": "aloo",
+    "prices": {
+      "half": 100.0,
+      "full": 200.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "aloo-matar",
+    "name": "Aloo Matar",
+    "description": "Potato and green peas in a light homely gravy.",
+    "category": "aloo",
+    "prices": {
+      "half": 30.0,
+      "full": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "rajma-chawal",
+    "name": "Rajma Chawal",
+    "description": "Homely rajma curry served with steamed rice.",
+    "category": "rice",
+    "prices": {
+      "regular": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "chole-chawal",
+    "name": "Chole Chawal",
+    "description": "Spiced chole with hot steamed rice — a full meal.",
+    "category": "rice",
+    "prices": {
+      "regular": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true
+  },
+  {
+    "slug": "jeera-rice",
+    "name": "Jeera Rice",
+    "description": "Basmati rice tempered with cumin and ghee.",
+    "category": "rice",
+    "prices": {
+      "half": 25.0,
+      "full": 50.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "veg-pulao",
+    "name": "Veg Pulao",
+    "description": "Rice cooked with vegetables and whole spices.",
+    "category": "rice",
+    "prices": {
+      "half": 30.0,
+      "full": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "aloo-paratha",
+    "name": "Aloo Paratha",
+    "description": "Stuffed potato paratha served with curd and pickle.",
+    "category": "paratha",
+    "prices": {
+      "regular": 40.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "pyaz-paratha",
+    "name": "Pyaz Paratha",
+    "description": "Onion-stuffed paratha, crisp outside and soft inside.",
+    "category": "paratha",
+    "prices": {
+      "regular": 40.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "paneer-paratha",
+    "name": "Paneer Paratha",
+    "description": "Generously stuffed with fresh crumbled paneer.",
+    "category": "paratha",
+    "prices": {
+      "regular": 70.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true
+  },
+  {
+    "slug": "plain-paratha",
+    "name": "Plain Paratha",
+    "description": "Layered tawa paratha, hot off the griddle.",
+    "category": "paratha",
+    "prices": {
+      "regular": 15.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "plain-puri",
+    "name": "Plain Puri",
+    "description": "Golden puffed puri, freshly fried.",
+    "category": "roti",
+    "prices": {
+      "regular": 10.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "puri-sabzi",
+    "name": "Puri Sabzi",
+    "description": "Hot puris served with aloo sabzi.",
+    "category": "roti",
+    "prices": {
+      "regular": 50.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true
+  },
+  {
+    "slug": "sabzi-4-roti",
+    "name": "Sabzi + 4 Roti",
+    "description": "Complete meal — seasonal sabzi with 4 fresh rotis.",
+    "category": "roti",
+    "prices": {
+      "regular": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": false
+  },
+  {
+    "slug": "rajma-4-roti",
+    "name": "Rajma + 4 Roti",
+    "description": "Rajma curry with 4 fresh tawa rotis.",
+    "category": "roti",
+    "prices": {
+      "regular": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "chole-bhature",
+    "name": "Chole Bhature",
+    "description": "Two fluffy bhature with spicy chole, onion and pickle.",
+    "category": "snacks",
+    "prices": {
+      "regular": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "pyaz-pakoda",
+    "name": "Pyaz Pakoda",
+    "description": "10 pieces of crisp onion pakode with green chutney.",
+    "category": "snacks",
+    "prices": {
+      "regular": 50.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "plain-maggi",
+    "name": "Plain Maggi",
+    "description": "Classic hot noodles, simple and comforting.",
+    "category": "maggi",
+    "prices": {
+      "half": 50.0,
+      "full": 90.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "paneer-maggi-masala",
+    "name": "Paneer Maggi Masala",
+    "description": "Masala maggi loaded with fresh paneer cubes.",
+    "category": "maggi",
+    "prices": {
+      "half": 60.0,
+      "full": 120.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "cheese-maggi-masala",
+    "name": "Cheese Maggi Masala",
+    "description": "Masala maggi with a generous melt of cheese.",
+    "category": "maggi",
+    "prices": {
+      "half": 80.0,
+      "full": 140.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "maggi-masala",
+    "name": "Maggi Masala",
+    "description": "Desi masala maggi with onion, tomato and coriander.",
+    "category": "maggi",
+    "prices": {
+      "half": 60.0,
+      "full": 110.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "tea",
+    "name": "Tea",
+    "description": "Freshly brewed Indian chai.",
+    "category": "beverages",
+    "prices": {
+      "regular": 10.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "special-tea",
+    "name": "Special Tea",
+    "description": "Extra malai, extra elaichi — our special chai.",
+    "category": "beverages",
+    "prices": {
+      "regular": 20.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true
+  },
+  {
+    "slug": "charitravan-chai",
+    "name": "Charitravan Chai",
+    "description": "House herbal chai with tulsi, ginger and spices.",
+    "category": "beverages",
+    "prices": {
+      "regular": 15.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "coffee",
+    "name": "Coffee",
+    "description": "Hot frothy coffee, freshly made.",
+    "category": "beverages",
+    "prices": {
+      "regular": 35.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "chilli-potato",
+    "name": "Chilli Potato",
+    "description": "Crispy potato fingers in sweet-spicy chilli sauce.",
+    "category": "chinese",
+    "prices": {
+      "regular": 70.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true
+  },
+  {
+    "slug": "veg-chowmein",
+    "name": "Veg Chowmein",
+    "description": "Street-style hakka noodles with crunchy vegetables.",
+    "category": "chinese",
+    "prices": {
+      "regular": 40.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "boondi-raita",
+    "name": "Boondi Raita",
+    "description": "Chilled curd with soft boondi and roasted spices.",
+    "category": "raita",
+    "prices": {
+      "half": 25.0,
+      "full": 50.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "veg-raita",
+    "name": "Veg Raita",
+    "description": "Curd with fresh onion, tomato and cucumber.",
+    "category": "raita",
+    "prices": {
+      "half": 50.0,
+      "full": 100.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "kheera-raita",
+    "name": "Kheera Raita",
+    "description": "Cooling cucumber raita with roasted cumin.",
+    "category": "raita",
+    "prices": {
+      "half": 80.0,
+      "full": 140.0
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false
+  },
+  {
+    "slug": "ghar-ki-thali",
+    "name": "Ghar Ki Thali",
+    "description": "Everyday homely thali — dal, sabzi, rice, roti, salad.",
+    "category": "thali",
+    "prices": {
+      "regular": 60.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "special-thali",
+    "name": "Special Thali",
+    "description": "Dal, paneer, raita and 4 roti/puri as applicable.",
+    "category": "thali",
+    "prices": {
+      "regular": 130.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": true
+  },
+  {
+    "slug": "super-deluxe-thali",
+    "name": "Super Deluxe Thali",
+    "description": "Our biggest thali — a full festive vegetarian spread.",
+    "category": "thali",
+    "prices": {
+      "regular": 170.0
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": false
+  }
+]
