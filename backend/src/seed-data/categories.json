@@ -1,0 +1,56 @@
+[
+  {
+    "name": "main-course",
+    "description": "Main Course",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "raita",
+    "description": "Raita",
+    "isActive": true,
+    "sortOrder": 1
+  },
+  {
+    "name": "roti",
+    "description": "Roti & Poori",
+    "isActive": true,
+    "sortOrder": 2
+  },
+  {
+    "name": "rice",
+    "description": "Rice & Biryani",
+    "isActive": true,
+    "sortOrder": 3
+  },
+  {
+    "name": "thali",
+    "description": "Thalis",
+    "isActive": true,
+    "sortOrder": 4
+  },
+  {
+    "name": "combo",
+    "description": "Combo",
+    "isActive": true,
+    "sortOrder": 5
+  },
+  {
+    "name": "paratha",
+    "description": "Paratha",
+    "isActive": true,
+    "sortOrder": 6
+  },
+  {
+    "name": "snacks",
+    "description": "Snacks & Beverages",
+    "isActive": true,
+    "sortOrder": 7
+  },
+  {
+    "name": "chinese",
+    "description": "Chinese",
+    "isActive": true,
+    "sortOrder": 8
+  }
+]
