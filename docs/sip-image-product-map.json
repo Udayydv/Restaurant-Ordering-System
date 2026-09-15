@@ -1,0 +1,1651 @@
+[
+  {
+    "slug": "sip-havmor-cone-choco-block-brownie",
+    "name": "Havmor Choco Block Brownie Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-choco-block-brownie.webp",
+    "file": "cone-choco-block-brownie.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Choco Block Brownie Cone",
+    "source": {
+      "name": "Choco Block Cone",
+      "page": "https://www.havmor.com/Choco-Block-Cone",
+      "image": "https://www.havmor.com/sites/default/files/products/Choco-Block-Cone.jpg",
+      "correspondingRetailListing": "https://www.myfirstbite.in/hotel/Havmor-Ice-Cream-809/Cone.html"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "note": "Retailer lists this Choco Block cone photo as Choco Block Brownie. Manufacturer photo preserves the actual white/dark chocolate-chip coating.",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-choco-block-brownie.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-belgian-silky-chocolate",
+    "name": "Havmor Belgian Silky Chocolate Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-belgian-silky-chocolate.webp",
+    "file": "cone-belgian-silky-chocolate.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Belgian Silky Chocolate Cone",
+    "source": {
+      "name": "Havmor Belgian Silky Chocolate Cone",
+      "page": "https://grocerii.com/product/6627/havmor-belgian-silky-chocolate-ice-cream-cone",
+      "image": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1782909629115-12.png"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1000,
+      "height": 1000
+    },
+    "newImage": "/sip-n-scoop/premium/cone-belgian-silky-chocolate.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-cookie-n-cream",
+    "name": "Havmor Cookie N Cream Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-cookie-n-cream.webp",
+    "file": "cone-cookie-n-cream.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Cookie N Cream Cone",
+    "source": {
+      "name": "Havmor Cookie N Cream Cone",
+      "page": "https://www.havmor.com/",
+      "image": "https://www.havmor.com/sites/default/files/products/cookie-cream-cone.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-cookie-n-cream.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-dark-chocolate",
+    "name": "Havmor Dark Chocolate Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-dark-chocolate.webp",
+    "file": "cone-dark-chocolate.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Dark Chocolate Cone",
+    "source": {
+      "name": "Dark Chocolate Cone",
+      "page": "https://www.havmor.com/chocolate/dark-chocolate-cone",
+      "image": "https://www.havmor.com/sites/default/files/products/dark-choclate-cone-2.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-dark-chocolate.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-kesar-pista",
+    "name": "Havmor Kesar Pista Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-kesar-pista.webp",
+    "file": "cone-kesar-pista.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Kesar Pista Cone",
+    "source": {
+      "name": "Kesar Pista Cone",
+      "page": "https://www.havmor.com/dry-fruits/kesar-pista",
+      "image": "https://www.havmor.com/sites/default/files/products/kesar-pista-cone.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-kesar-pista.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-choco-brownie",
+    "name": "Havmor Choco Brownie Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-choco-brownie.webp",
+    "file": "cone-choco-brownie.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Choco Brownie Cone",
+    "source": {
+      "name": "Choco Brownie Cone",
+      "page": "https://www.havmor.com/chocolate/choco-brownie-cone",
+      "image": "https://www.havmor.com/sites/default/files/products/Choco-Brownie-Cone-1.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-choco-brownie.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-chocolate",
+    "name": "Havmor Chocolate Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-chocolate.webp",
+    "file": "cone-chocolate.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Chocolate Cone",
+    "source": {
+      "name": "Chocolate Cone",
+      "page": "https://www.havmor.com/chocolate/chocolate-cone",
+      "image": "https://www.havmor.com/sites/default/files/products/choclate-cone-2.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-chocolate.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-yummy-strawberry",
+    "name": "Havmor Yummy Strawberry Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-yummy-strawberry.webp",
+    "file": "cone-yummy-strawberry.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Yummy Strawberry Cone",
+    "source": {
+      "name": "Yummy Strawberry Cone",
+      "page": "https://www.havmor.com/fruits/yummy-strawberry",
+      "image": "https://www.havmor.com/sites/default/files/products/yummy-strawberry-cone.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-yummy-strawberry.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-butter-scotch",
+    "name": "Havmor Butter Scotch Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-butter-scotch.webp",
+    "file": "cone-butter-scotch.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Butter Scotch Cone",
+    "source": {
+      "name": "Havmor Butter Scotch Cone",
+      "page": "https://www.havmor.com/Butter-Scotch-Cone",
+      "image": "https://www.havmor.com/sites/default/files/gallery/butter-scotch-cone-2.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-butter-scotch.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-chic-chocolate",
+    "name": "Havmor Chic Chocolate Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-chic-chocolate.webp",
+    "file": "cone-chic-chocolate.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Chic Chocolate Cone",
+    "source": {
+      "name": "Chic Chocolate",
+      "page": "https://www.havmor.com/Chic-Choc-Cone",
+      "image": "https://www.havmor.com/sites/default/files/products/Chic-Choc-Cone.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-chic-chocolate.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-choco-vanilla",
+    "name": "Havmor Choco Vanilla Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-choco-vanilla.webp",
+    "file": "cone-choco-vanilla.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Choco Vanilla Cone",
+    "source": {
+      "name": "Choco Vanilla",
+      "page": "https://www.havmor.com/chocolate/choco-vanilla",
+      "image": "https://www.havmor.com/sites/default/files/products/Choco-Vanilla-Cone.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-choco-vanilla.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-havmor-butter-scotch",
+    "name": "Havmor Butterscotch 80 ml",
+    "oldImage": "/sip-n-scoop/v9/cone-havmor-butter-scotch.webp",
+    "file": "cone-havmor-butter-scotch.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Butterscotch 80 ml",
+    "source": {
+      "name": "Crunchy Havmor Cone",
+      "page": "https://www.havmor.com/crunchy-havmor-cone",
+      "image": "https://www.havmor.com/sites/default/files/products/crunchy-butter-scotch-1_0.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-havmor-butter-scotch.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cone-magic-butter-scotch",
+    "name": "Havmor Butterscotch",
+    "oldImage": "/sip-n-scoop/v9/cone-magic-butter-scotch.webp",
+    "file": "cone-magic-butter-scotch.webp",
+    "expectedFormat": "cone",
+    "expectedRepresentation": "Havmor Butterscotch",
+    "source": {
+      "name": "Butter Scotch Cone",
+      "page": "https://www.havmor.com/Butter-Scotch-Cone",
+      "image": "https://www.havmor.com/sites/default/files/products/butter-scotch-cone-1.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cone-magic-butter-scotch.webp",
+    "reason": "Replaced green/unclear cone image with an unwrapped butterscotch cone; avoids an incorrect pack-size label.",
+    "note": "Unwrapped butterscotch cone avoids showing an incorrect 110ml quantity on the 40ml card."
+  },
+  {
+    "slug": "sip-havmor-bar-jumbo-crunchy-chocobar",
+    "name": "Havmor Jumbo Crunchy Chocobar",
+    "oldImage": "/sip-n-scoop/v9/bar-jumbo-crunchy-chocobar.webp",
+    "file": "bar-jumbo-crunchy-chocobar.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Jumbo Crunchy Chocobar",
+    "source": {
+      "name": "Jumbo Crunchy Chocobar",
+      "page": "https://www.havmor.com/node/628",
+      "image": "https://www.havmor.com/sites/default/files/products/jumbo-crunchy-chocobar-2%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/bar-jumbo-crunchy-chocobar.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-bar-jumbo-classic-chocobar",
+    "name": "Havmor Jumbo Classic Chocobar",
+    "oldImage": "/sip-n-scoop/v9/bar-jumbo-classic-chocobar.webp",
+    "file": "bar-jumbo-classic-chocobar.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Jumbo Classic Chocobar",
+    "source": {
+      "name": "Jumbo Classic Chocobar",
+      "page": "https://www.havmor.com/chocolate/jumbo-classic-chocobar",
+      "image": "https://www.havmor.com/sites/default/files/products/jumbo-classic-chocobar-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/bar-jumbo-classic-chocobar.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-bar-zulubar-dark-crunch",
+    "name": "Havmor Zulubar Dark Crunch",
+    "oldImage": "/sip-n-scoop/v9/bar-zulubar-dark-crunch.webp",
+    "file": "bar-zulubar-dark-crunch.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Zulubar Dark Crunch",
+    "source": {
+      "name": "Zulubar Dark Crunch",
+      "page": "https://www.havmor.com/node/627",
+      "image": "https://www.havmor.com/sites/default/files/products/zulubar-dark-crunch-2%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/bar-zulubar-dark-crunch.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-bar-zulubar",
+    "name": "Havmor Zulubar",
+    "oldImage": "/sip-n-scoop/v9/bar-zulubar.webp",
+    "file": "bar-zulubar.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Zulubar",
+    "source": {
+      "name": "Zulubar",
+      "page": "https://www.havmor.com/chocolate/zulubar",
+      "image": "https://www.havmor.com/sites/default/files/products/zulubar-candy-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/bar-zulubar.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-dolly-jumbo-mango-dolly",
+    "name": "Havmor Jumbo Mango Dolly",
+    "oldImage": "/sip-n-scoop/v9/dolly-jumbo-mango-dolly.webp",
+    "file": "dolly-jumbo-mango-dolly.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Jumbo Mango Dolly",
+    "source": {
+      "name": "Jumbo Mango Dolly",
+      "page": "https://www.havmor.com/fruits/jumbo-mango-dolly",
+      "image": "https://www.havmor.com/sites/default/files/products/jumbo-mango-dolly-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/dolly-jumbo-mango-dolly.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-dolly-jumbo-raspberry-dolly",
+    "name": "Havmor Jumbo Raspberry Dolly",
+    "oldImage": "/sip-n-scoop/v9/dolly-jumbo-raspberry-dolly.webp",
+    "file": "dolly-jumbo-raspberry-dolly.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Jumbo Raspberry Dolly",
+    "source": {
+      "name": "Jumbo Raspberry Dolly",
+      "page": "https://www.havmor.com/fruits/jumbo-raspberry-dolly",
+      "image": "https://www.havmor.com/sites/default/files/products/jumbo-rasberry-dolly-2%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/dolly-jumbo-raspberry-dolly.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-fruit-aam",
+    "name": "Havmor Aam Fruit Candy",
+    "oldImage": "/sip-n-scoop/v9/fruit-aam.webp",
+    "file": "fruit-aam.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Aam Fruit Candy",
+    "source": {
+      "name": "Aam Candy",
+      "page": "https://www.havmor.com/aam-candy",
+      "image": "https://www.havmor.com/sites/default/files/products/aam-candy%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/fruit-aam.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-ice-kachcha-aam",
+    "name": "Havmor Kachcha Aam Ice Candy",
+    "oldImage": "/sip-n-scoop/v9/ice-kachcha-aam.webp",
+    "file": "ice-kachcha-aam.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Kachcha Aam Ice Candy",
+    "source": {
+      "name": "Kachcha Aam Candy",
+      "page": "https://www.havmor.com/kachcha-aam-candy",
+      "image": "https://www.havmor.com/sites/default/files/products/kacha-am-candy-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/ice-kachcha-aam.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-ice-orange-bar",
+    "name": "Havmor Orange Bar Ice Candy",
+    "oldImage": "/sip-n-scoop/v9/ice-orange-bar.webp",
+    "file": "ice-orange-bar.webp",
+    "expectedFormat": "stick",
+    "expectedRepresentation": "Havmor Orange Bar Ice Candy",
+    "source": {
+      "name": "Orange Bar",
+      "page": "https://www.havmor.com/orange-bar",
+      "image": "https://www.havmor.com/sites/default/files/products/orange-candy-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/ice-orange-bar.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cup-butter-scotch",
+    "name": "Havmor Butter Scotch Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-butter-scotch.webp",
+    "file": "cup-butter-scotch.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Butter Scotch Cup",
+    "source": {
+      "name": "Butterscotch – Ice Cream",
+      "page": "https://www.havmor.com/product/butter-scotch",
+      "image": "https://www.havmor.com/sites/default/files/products/butter-scotch-85ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cup-butter-scotch.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cup-vanilla-85",
+    "name": "Havmor Vanilla Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-vanilla-85.webp",
+    "file": "cup-vanilla-85.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Vanilla Cup",
+    "source": {
+      "name": "Vanilla –  Ice Cream",
+      "page": "https://www.havmor.com/vanilla",
+      "image": "https://www.havmor.com/sites/default/files/products/Vanilla-Ice-Cream.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cup-vanilla-85.webp",
+    "reason": "Removed incorrectly blue ice cream; now white vanilla in a cup.",
+    "note": "Vanilla Cup and Vanilla Mini Cup share the same manufacturer vanilla cup photo because flavour and format are the same; quantities remain in the descriptions."
+  },
+  {
+    "slug": "sip-havmor-cup-vanilla-50",
+    "name": "Havmor Vanilla Mini Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-vanilla-50.webp",
+    "file": "cup-vanilla-50.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Vanilla Mini Cup",
+    "source": {
+      "name": "Vanilla –  Ice Cream",
+      "page": "https://www.havmor.com/vanilla",
+      "image": "https://www.havmor.com/sites/default/files/products/Vanilla-Ice-Cream.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cup-vanilla-50.webp",
+    "reason": "Replaced the wrong-size cup presentation with a compact vanilla cup; same flavour as Vanilla Cup."
+  },
+  {
+    "slug": "sip-havmor-cup-strawberry",
+    "name": "Havmor Strawberry Mini Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-strawberry.webp",
+    "file": "cup-strawberry.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Strawberry Mini Cup",
+    "source": {
+      "name": "Strawberry –  Ice Cream",
+      "page": "https://www.havmor.com/node/697",
+      "image": "https://www.havmor.com/sites/default/files/products/Strawberry-icecream.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cup-strawberry.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-cup-tutti-frutti",
+    "name": "Havmor Tutti Frutti Mini Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-tutti-frutti.webp",
+    "file": "cup-tutti-frutti.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Tutti Frutti Mini Cup",
+    "source": {
+      "name": "Tutti Frutti – Ice Cream",
+      "page": "https://www.havmor.com/tutti-frutti",
+      "image": "https://www.havmor.com/sites/default/files/products/Tutti-Frutti-icecream.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/cup-tutti-frutti.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-sundae-choco-brownie",
+    "name": "Havmor Choco Brownie Sundae Cup",
+    "oldImage": "/sip-n-scoop/v9/sundae-choco-brownie.webp",
+    "file": "sundae-choco-brownie.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Choco Brownie Sundae Cup",
+    "source": {
+      "name": "Choco Brownie Sundae",
+      "page": "https://www.havmor.com/node/722",
+      "image": "https://www.havmor.com/sites/default/files/products/Choco-Brownie-Sundae_0.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/sundae-choco-brownie.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-sundae-choco",
+    "name": "Havmor Choco Sundae Cup",
+    "oldImage": "/sip-n-scoop/v9/sundae-choco.webp",
+    "file": "sundae-choco.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Choco Sundae Cup",
+    "source": {
+      "name": "Choco Sundae",
+      "page": "https://www.havmor.com/chocolate/choco-sundae",
+      "image": "https://www.havmor.com/sites/default/files/products/cgoco-sundai.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/sundae-choco.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-sundae-strawberry",
+    "name": "Havmor Strawberry Sundae Cup",
+    "oldImage": "/sip-n-scoop/v9/sundae-strawberry.webp",
+    "file": "sundae-strawberry.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Strawberry Sundae Cup",
+    "source": {
+      "name": "Strawberry Sundae",
+      "page": "https://www.havmor.com/fruits/strawberry-sundae",
+      "image": "https://www.havmor.com/sites/default/files/products/Strawberry-sundai.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/sundae-strawberry.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-jumbo-nutty-belgian-dark-chocolate",
+    "name": "Havmor Nutty Belgian Dark Chocolate Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-nutty-belgian-dark-chocolate.webp",
+    "file": "jumbo-nutty-belgian-dark-chocolate.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Nutty Belgian Dark Chocolate Jumbo Cup",
+    "source": {
+      "name": "Nutty Belgian Dark Chocolate",
+      "page": "https://www.havmor.com/chocolate/nutty-belgian-dark-chocolate",
+      "image": "https://www.havmor.com/sites/default/files/products/nutty_belgian_dark_choclat.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 702,
+      "height": 525
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-nutty-belgian-dark-chocolate.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-jumbo-rajbhog",
+    "name": "Havmor Rajbhog Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-rajbhog.webp",
+    "file": "jumbo-rajbhog.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Rajbhog Jumbo Cup",
+    "source": {
+      "name": "Rajbhog",
+      "page": "https://www.havmor.com/dry-fruits/rajbhog-1",
+      "image": "https://www.havmor.com/sites/default/files/products/rajbhog-ice-cream-2.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-rajbhog.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-jumbo-rajwadi-kulfi-falooda",
+    "name": "Havmor Rajwadi Kulfi Falooda Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-rajwadi-kulfi-falooda.webp",
+    "file": "jumbo-rajwadi-kulfi-falooda.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Rajwadi Kulfi Falooda Jumbo Cup",
+    "source": {
+      "name": "Havmor Rajwadi Kulfi Falooda 110ml cup",
+      "page": "https://www.creamchillz.in/product/30970952/Havmor-Rajwadi-Kulfi-falooda-cup--110ml",
+      "image": "https://cdn.dotpe.in/longtail/store-items/7471723/RlP02Md5.webp"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "note": "Exact 110ml cup; available source has a cricket background and is only 417px. A supplier packshot would improve consistency further.",
+    "sourceDimensions": {
+      "width": 417,
+      "height": 417
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-rajwadi-kulfi-falooda.webp",
+    "reason": "Correct 110ml Rajwadi Kulfi Falooda cup; rejected sources depicting the family tub or a kulfi stick."
+  },
+  {
+    "slug": "sip-havmor-jumbo-kesar-pista",
+    "name": "Havmor Kesar Pista Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-kesar-pista.webp",
+    "file": "jumbo-kesar-pista.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Kesar Pista Jumbo Cup",
+    "source": {
+      "name": "Kesar Pista",
+      "page": "https://www.havmor.com/dry-fruits/kesar-pista-3",
+      "image": "https://www.havmor.com/sites/default/files/products/kesar-pista-ice-cream.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-kesar-pista.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-jumbo-chocolate-chips",
+    "name": "Havmor Chocolate Chips Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-chocolate-chips.webp",
+    "file": "jumbo-chocolate-chips.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Chocolate Chips Jumbo Cup",
+    "source": {
+      "name": "Chocolate Chips",
+      "page": "https://www.havmor.com/chocolate/chocolate-chips",
+      "image": "https://www.havmor.com/sites/default/files/products/choclate-chips-cup.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-chocolate-chips.webp",
+    "reason": "Removed purple ice cream; now chocolate ice cream/chips in the correct jumbo cup."
+  },
+  {
+    "slug": "sip-havmor-jumbo-premium-kaju-kishmish",
+    "name": "Havmor Premium Kaju Kishmish Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-premium-kaju-kishmish.webp",
+    "file": "jumbo-premium-kaju-kishmish.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Premium Kaju Kishmish Jumbo Cup",
+    "source": {
+      "name": "Premium Kaju Draksh",
+      "page": "https://www.havmor.com/premium-kaju-draksh",
+      "image": "https://www.havmor.com/sites/default/files/products/premium_kaju_draksh.png"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 702,
+      "height": 525
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-premium-kaju-kishmish.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-jumbo-american-nuts",
+    "name": "Havmor American Nuts Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-american-nuts.webp",
+    "file": "jumbo-american-nuts.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor American Nuts Jumbo Cup",
+    "source": {
+      "name": "American Nuts",
+      "page": "https://www.havmor.com/american-nuts",
+      "image": "https://www.havmor.com/sites/default/files/products/American-Nuts_0.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-american-nuts.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-jumbo-vanilla",
+    "name": "Havmor Vanilla Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-vanilla.webp",
+    "file": "jumbo-vanilla.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Vanilla Jumbo Cup",
+    "source": {
+      "name": "Havmor Vanilla Jumbo Cup",
+      "page": "https://www.havmor.com/node/721",
+      "image": "https://www.havmor.com/sites/default/files/products/vanila-cup-1.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-vanilla.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-jumbo-dark-chocolate-zero-sugar",
+    "name": "Havmor Dark Chocolate Zero Sugar Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-dark-chocolate-zero-sugar.webp",
+    "file": "jumbo-dark-chocolate-zero-sugar.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Dark Chocolate Zero Sugar Jumbo Cup",
+    "source": {
+      "name": "Havmor Dark Chocolate Zero Added Sugar cup",
+      "page": "https://www.havmor.com/",
+      "image": "https://www.havmor.com/sites/default/files/2026-04/dark-chocolate-SF.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "crop": {
+      "left": 145,
+      "top": 0,
+      "width": 640,
+      "height": 750
+    },
+    "note": "Manufacturer campaign photo cropped to the complete cup; pink campaign background retained. Packaging says zero added sugar; catalog name left unchanged.",
+    "sourceDimensions": {
+      "width": 1920,
+      "height": 750
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-dark-chocolate-zero-sugar.webp",
+    "reason": "Correct Dark Chocolate Zero Added Sugar cup from the manufacturer campaign; cropped away the headline."
+  },
+  {
+    "slug": "sip-havmor-jumbo-kesar-pista-zero-sugar",
+    "name": "Havmor Kesar Pista Zero Sugar Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-kesar-pista-zero-sugar.webp",
+    "file": "jumbo-kesar-pista-zero-sugar.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Kesar Pista Zero Sugar Jumbo Cup",
+    "source": {
+      "name": "Havmor Kesar Pista Zero Sugar Jumbo Cup",
+      "page": "https://www.swiggy.com/stores/instamart/p/havmor-sugar-free-kesar-pista-ice-cream-cup-KTXUU4N6FE",
+      "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/CIW/2026/5/6/6389ff8b-008a-4129-8fe9-fd5a7bb778f7_226596_1.png"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1920,
+      "height": 1920
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-kesar-pista-zero-sugar.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-jumbo-vanilla-zero-sugar",
+    "name": "Havmor Vanilla Zero Sugar Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-vanilla-zero-sugar.webp",
+    "file": "jumbo-vanilla-zero-sugar.webp",
+    "expectedFormat": "cup",
+    "expectedRepresentation": "Havmor Vanilla Zero Sugar Jumbo Cup",
+    "source": {
+      "name": "Havmor Vanilla Zero Sugar Jumbo Cup",
+      "page": "https://instamart.in/p/havmor-sugar-free-vanilla-ice-cream-cup-PUU9KYR636",
+      "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2026/3/6/06e25dd5-bb3c-41c5-a2e1-7dcdf8eac603_NPI-110672_1_20260306_115853.png"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1920,
+      "height": 1920
+    },
+    "newImage": "/sip-n-scoop/premium/jumbo-vanilla-zero-sugar.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-matka",
+    "name": "Havmor Matka Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-matka.webp",
+    "file": "kulfi-matka.webp",
+    "expectedFormat": "matka",
+    "expectedRepresentation": "Havmor Matka Kulfi",
+    "source": {
+      "name": "Matka Kulfi",
+      "page": "https://www.havmor.com/indian-traditional/matka-kulfi",
+      "image": "https://www.havmor.com/sites/default/files/products/matla-kulfi-1.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-matka.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-kashmiri-kesar",
+    "name": "Havmor Kashmiri Kesar Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-kashmiri-kesar.webp",
+    "file": "kulfi-kashmiri-kesar.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Kashmiri Kesar Kulfi",
+    "source": {
+      "name": "Havmor Kashmiri Kesar Kulfi",
+      "page": "https://icecreamwalas.in/product/product-kashmiri-kesar-kulfi-ahmedabad/",
+      "image": "https://icecreamwalas.in/wp-content/uploads/2026/02/Kashmiri-kesar-kulfi-2.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 800,
+      "height": 800
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-kashmiri-kesar.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format.",
+    "note": "Exact Kashmiri Kesar kulfi pack and stick; original pink promotional background retained."
+  },
+  {
+    "slug": "sip-havmor-kulfi-chowpaty",
+    "name": "Havmor Chowpaty Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-chowpaty.webp",
+    "file": "kulfi-chowpaty.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Chowpaty Kulfi",
+    "source": {
+      "name": "Chowpaty Kulfi",
+      "page": "https://www.havmor.com/indian-traditional/chowpaty-kulfi",
+      "image": "https://www.havmor.com/sites/default/files/products/Chowpaty-Kulfi-2%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-chowpaty.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-dryfruit-rabdi",
+    "name": "Havmor Dryfruit Rabdi Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-dryfruit-rabdi.webp",
+    "file": "kulfi-dryfruit-rabdi.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Dryfruit Rabdi Kulfi",
+    "source": {
+      "name": "Dryfruit Rabdi Kulfi",
+      "page": "https://www.havmor.com/indian-traditional/dryfruit-rabdi-kulfi",
+      "image": "https://www.havmor.com/sites/default/files/products/dryfruit-rabadi-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-dryfruit-rabdi.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-raj-bhog",
+    "name": "Havmor Raj Bhog Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-raj-bhog.webp",
+    "file": "kulfi-raj-bhog.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Raj Bhog Kulfi",
+    "source": {
+      "name": "Rajbhog Kulfi",
+      "page": "https://www.havmor.com/indian-traditional/rajbhog-kulfi",
+      "image": "https://www.havmor.com/sites/default/files/products/rajbhog-kulfi-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-raj-bhog.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-mava-tillewali",
+    "name": "Havmor Mava Tillewali Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-mava-tillewali.webp",
+    "file": "kulfi-mava-tillewali.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Mava Tillewali Kulfi",
+    "source": {
+      "name": "Mava Tillewala Kulfi",
+      "page": "https://www.havmor.com/indian-traditional/mava-tillewala-kulfi",
+      "image": "https://www.havmor.com/sites/default/files/products/Mava-Tillewali-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-mava-tillewali.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-shahi",
+    "name": "Havmor Shahi Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-shahi.webp",
+    "file": "kulfi-shahi.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Shahi Kulfi",
+    "source": {
+      "name": "Shahi Kulfi",
+      "page": "https://www.havmor.com/indian-traditional/shahi-kulfi",
+      "image": "https://www.havmor.com/sites/default/files/products/shahi-kulfi-2%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-shahi.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-bombay",
+    "name": "Havmor Bombay Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-bombay.webp",
+    "file": "kulfi-bombay.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Bombay Kulfi",
+    "source": {
+      "name": "Bombay Kulfi",
+      "page": "https://www.havmor.com/indian-traditional/bombay-kulfi",
+      "image": "https://www.havmor.com/sites/default/files/products/bombay-kulfi-2%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-bombay.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-rajwadi",
+    "name": "Havmor Rajwadi Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-rajwadi.webp",
+    "file": "kulfi-rajwadi.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Rajwadi Kulfi",
+    "source": {
+      "name": "Rajwadi Kulfi",
+      "page": "https://www.havmor.com/rajwadi-kulfi",
+      "image": "https://www.havmor.com/sites/default/files/products/rajwadi-kulffy-2%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-rajwadi.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-mava-malai",
+    "name": "Havmor Mava Malai Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-mava-malai.webp",
+    "file": "kulfi-mava-malai.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor Mava Malai Kulfi",
+    "source": {
+      "name": "Mava Malaii Candy",
+      "page": "https://www.havmor.com/node/685",
+      "image": "https://www.havmor.com/sites/default/files/products/mava-malai-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-mava-malai.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-kulfi-sf-malai",
+    "name": "Havmor SF Malai Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-sf-malai.webp",
+    "file": "kulfi-sf-malai.webp",
+    "expectedFormat": "kulfi stick",
+    "expectedRepresentation": "Havmor SF Malai Kulfi",
+    "source": {
+      "name": "Malai Kulfi",
+      "page": "https://www.havmor.com/node/686",
+      "image": "https://www.havmor.com/sites/default/files/products/malai-kulfy-sugarfree-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/kulfi-sf-malai.webp",
+    "reason": "Replaced blurry/cut-off or mismatched imagery with the named Havmor flavour and serving format."
+  },
+  {
+    "slug": "sip-havmor-brick-rajbhog",
+    "name": "Havmor Rajbhog Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-rajbhog.webp",
+    "file": "brick-rajbhog.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Rajbhog Brick Combo",
+    "source": {
+      "name": "Rajbhog",
+      "page": "https://www.havmor.com/dry-fruits/rajbhog",
+      "image": "https://www.havmor.com/sites/default/files/products/rajbhog-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-rajbhog.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-kesar-pista",
+    "name": "Havmor Kesar Pista Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-kesar-pista.webp",
+    "file": "brick-kesar-pista.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Kesar Pista Brick Combo",
+    "source": {
+      "name": "Kesar Pista",
+      "page": "https://www.havmor.com/dry-fruits/kesar-pista-2",
+      "image": "https://www.havmor.com/sites/default/files/products/kesar-pista-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-kesar-pista.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-american-nuts",
+    "name": "Havmor American Nuts Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-american-nuts.webp",
+    "file": "brick-american-nuts.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor American Nuts Brick Combo",
+    "source": {
+      "name": "American Nuts",
+      "page": "https://www.havmor.com/dry-fruits/american-nuts",
+      "image": "https://www.havmor.com/sites/default/files/products/american-nuts-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-american-nuts.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-almond-carnival",
+    "name": "Havmor Almond Carnival Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-almond-carnival.webp",
+    "file": "brick-almond-carnival.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Almond Carnival Brick Combo",
+    "source": {
+      "name": "Almond Carnival",
+      "page": "https://www.havmor.com/dry-fruits/almond-carnival",
+      "image": "https://www.havmor.com/sites/default/files/products/Almond-Carnival-700ml.png"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-almond-carnival.webp",
+    "reason": "Removed pink/mismatched artwork; now Almond Carnival family-pack boxes."
+  },
+  {
+    "slug": "sip-havmor-brick-choco-brownie",
+    "name": "Havmor Choco Brownie Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-choco-brownie.webp",
+    "file": "brick-choco-brownie.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Choco Brownie Brick Combo",
+    "source": {
+      "name": "Choco Brownie",
+      "page": "https://www.havmor.com/node/703",
+      "image": "https://www.havmor.com/sites/default/files/products/choco-brownie-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-choco-brownie.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-chocolate-chips",
+    "name": "Havmor Chocolate Chips Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-chocolate-chips.webp",
+    "file": "brick-chocolate-chips.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Chocolate Chips Brick Combo",
+    "source": {
+      "name": "Chocolate Chips",
+      "page": "https://www.havmor.com/chocolate/chocolate-chips-1",
+      "image": "https://www.havmor.com/sites/default/files/products/choclate-chips-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-chocolate-chips.webp",
+    "reason": "Removed purple/mismatched artwork; now Chocolate Chips family-pack boxes."
+  },
+  {
+    "slug": "sip-havmor-brick-kaju-draksh",
+    "name": "Havmor Kaju Draksh Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-kaju-draksh.webp",
+    "file": "brick-kaju-draksh.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Kaju Draksh Brick Combo",
+    "source": {
+      "name": "Kaju Draksh",
+      "page": "https://www.havmor.com/dry-fruits/kaju-draksh",
+      "image": "https://www.havmor.com/sites/default/files/products/kaju-draksh-700.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-kaju-draksh.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-alphonso-mango",
+    "name": "Havmor Alphonso Mango Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-alphonso-mango.webp",
+    "file": "brick-alphonso-mango.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Alphonso Mango Brick Combo",
+    "source": {
+      "name": "Alphonso Mango",
+      "page": "https://www.havmor.com/fruits/alphonso-mango",
+      "image": "https://www.havmor.com/sites/default/files/products/Alphonso-Mango-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-alphonso-mango.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-cookie-cream",
+    "name": "Havmor Cookie Cream Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-cookie-cream.webp",
+    "file": "brick-cookie-cream.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Cookie Cream Brick Combo",
+    "source": {
+      "name": "Cookie Cream",
+      "page": "https://www.havmor.com/chocolate/cookie-cream-2",
+      "image": "https://www.havmor.com/sites/default/files/products/cookie-and-cream-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-cookie-cream.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-black-currant",
+    "name": "Havmor Black Currant Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-black-currant.webp",
+    "file": "brick-black-currant.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Black Currant Brick Combo",
+    "source": {
+      "name": "Black Currant",
+      "page": "https://www.havmor.com/fruits/black-currant",
+      "image": "https://www.havmor.com/sites/default/files/products/Black-Currant-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-black-currant.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-tutti-frutti",
+    "name": "Havmor Tutti Frutti Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-tutti-frutti.webp",
+    "file": "brick-tutti-frutti.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Tutti Frutti Brick Combo",
+    "source": {
+      "name": "Tutti Frutti – Ice Cream",
+      "page": "https://www.havmor.com/node/701",
+      "image": "https://www.havmor.com/sites/default/files/products/Tutti-Frutti-icecream-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-tutti-frutti.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-crunchy-butter-scotch",
+    "name": "Havmor Crunchy Butter Scotch Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-crunchy-butter-scotch.webp",
+    "file": "brick-crunchy-butter-scotch.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Crunchy Butter Scotch Brick Combo",
+    "source": {
+      "name": "Butterscotch – Ice Cream",
+      "page": "https://www.havmor.com/node/700",
+      "image": "https://www.havmor.com/sites/default/files/products/butter-scotch-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-crunchy-butter-scotch.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-strawberry",
+    "name": "Havmor Strawberry Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-strawberry.webp",
+    "file": "brick-strawberry.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Strawberry Brick Combo",
+    "source": {
+      "name": "Strawberry",
+      "page": "https://www.havmor.com/fruits/strawberry",
+      "image": "https://www.havmor.com/sites/default/files/products/Strawberry-icecream-700.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-strawberry.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-vanilla",
+    "name": "Havmor Vanilla Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-vanilla.webp",
+    "file": "brick-vanilla.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Vanilla Brick Combo",
+    "source": {
+      "name": "Vanilla –  Ice Cream",
+      "page": "https://www.havmor.com/node/699",
+      "image": "https://www.havmor.com/sites/default/files/products/Vanilla-Ice-Cream-700ml.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-vanilla.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-taj-mahal",
+    "name": "Havmor Taj Mahal Brick",
+    "oldImage": "/sip-n-scoop/v9/brick-taj-mahal.webp",
+    "file": "brick-taj-mahal.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Taj Mahal Brick",
+    "source": {
+      "name": "Taj Mahal – Ice Cream",
+      "page": "https://www.havmor.com/node/702",
+      "image": "https://www.havmor.com/sites/default/files/products/taj-mahal-700ml.png"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-taj-mahal.webp",
+    "reason": "Replaced blurry/mismatched family-pack artwork with the named Havmor flavour packaging."
+  },
+  {
+    "slug": "sip-havmor-brick-butterscotch-cookie",
+    "name": "Havmor Butter Scotch Cookie Brick",
+    "oldImage": "/sip-n-scoop/v9/brick-butterscotch-cookie.webp",
+    "file": "brick-butterscotch-cookie.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Butter Scotch Cookie Brick",
+    "source": {
+      "name": "Butter Scotch Cookie Cake – Ice Cream",
+      "page": "https://www.havmor.com/node/708",
+      "image": "https://www.havmor.com/sites/default/files/products/Butter-Scotch-Cookie-Cake-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "note": "User confirmed these are the cake products; existing Brick card name intentionally preserved.",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-butterscotch-cookie.webp",
+    "reason": "Now the actual Butterscotch Cookie ice-cream cake packaging, confirmed by the user; card name preserved."
+  },
+  {
+    "slug": "sip-havmor-brick-italian-cassata",
+    "name": "Havmor Italian Cassata Brick",
+    "oldImage": "/sip-n-scoop/v9/brick-italian-cassata.webp",
+    "file": "brick-italian-cassata.webp",
+    "expectedFormat": "rectangular family brick",
+    "expectedRepresentation": "Havmor Italian Cassata Brick",
+    "source": {
+      "name": "Italian Cassata Cake - Ice Cream",
+      "page": "https://www.havmor.com/node/707",
+      "image": "https://www.havmor.com/sites/default/files/products/italian-casata-cake-1%5B1%5D.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "note": "User confirmed these are the cake products; existing Brick card name intentionally preserved.",
+    "sourceDimensions": {
+      "width": 1200,
+      "height": 897
+    },
+    "newImage": "/sip-n-scoop/premium/brick-italian-cassata.webp",
+    "reason": "Now the actual Italian Cassata ice-cream cake packaging, confirmed by the user; card name preserved."
+  },
+  {
+    "slug": "sip-independence-water-750",
+    "name": "Independence Water 750 ml",
+    "oldImage": "/sip-n-scoop/v9/independence-water-750.webp",
+    "file": "independence-water-750.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Independence Water 750 ml",
+    "source": {
+      "name": "Independence Mineral Water 750 ml",
+      "page": "https://www.jyotipizzabite.in/products/independence-mineral-water-750-ml",
+      "image": "https://cdn2.clevup.in/469263/SKU-0369_0-1768796277897.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 447,
+      "height": 447
+    },
+    "newImage": "/sip-n-scoop/premium/independence-water-750.webp",
+    "reason": "Replaced busy water artwork with a retailer-listed Independence 750ml bottle.",
+    "note": "Exact 750ml retailer listing; source is 447px. Packaging detail remains limited by the source, despite 960px delivery canvas."
+  },
+  {
+    "slug": "sip-bisleri-1l",
+    "name": "Bisleri Water 1 L",
+    "oldImage": "/sip-n-scoop/v9/bisleri-1l.webp",
+    "file": "bisleri-1l.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Bisleri Water 1 L",
+    "source": {
+      "name": "Bisleri Water 1 L",
+      "page": "https://www.chennaigrocers.com/products/bisleri-water-1l",
+      "image": "https://www.chennaigrocers.com/cdn/shop/files/BisleriWater1L_2.png?v=1737442885"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1500,
+      "height": 1500
+    },
+    "newImage": "/sip-n-scoop/premium/bisleri-1l.webp",
+    "reason": "Replaced generic, busy or low-detail image with the named beverage in its bottle/carton format."
+  },
+  {
+    "slug": "sip-sprite-1l",
+    "name": "Sprite 1 L",
+    "oldImage": "/sip-n-scoop/v9/sprite-1l.webp",
+    "file": "sprite-1l.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Sprite 1 L",
+    "source": {
+      "name": "Sprite 1 L",
+      "page": "https://sachdevaagencies.store.shoopy.in/products/sprite-1ltr-15-bottles-SKU-0307",
+      "image": "https://storage.googleapis.com/shy-pub/143849/1665223711409_SKU-0307_0.png"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 1055,
+      "height": 1440
+    },
+    "sourceDimensions": {
+      "width": 1426,
+      "height": 1440
+    },
+    "newImage": "/sip-n-scoop/premium/sprite-1l.webp",
+    "reason": "Replaced promotional layout with a centered Sprite 1L bottle; removed side advertising panel."
+  },
+  {
+    "slug": "sip-coca-cola-1l",
+    "name": "Coca-Cola 1 L",
+    "oldImage": "/sip-n-scoop/v9/coca-cola-1l.webp",
+    "file": "coca-cola-1l.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Coca-Cola 1 L",
+    "source": {
+      "name": "Coca-Cola 1 L",
+      "page": "https://fetchnbuy.in/products/coca-cola-soft-drink-original-taste-1l-pet-bottle",
+      "image": "https://cdn.shopify.com/s/files/1/0523/9934/1736/products/61y4HOllrdL._SX679.jpg?v=1648801438"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 679,
+      "height": 679
+    },
+    "newImage": "/sip-n-scoop/premium/coca-cola-1l.webp",
+    "reason": "Replaced generic, busy or low-detail image with the named beverage in its bottle/carton format."
+  },
+  {
+    "slug": "sip-thums-up-1l",
+    "name": "Thums Up 1 L",
+    "oldImage": "/sip-n-scoop/v9/thums-up-1l.webp",
+    "file": "thums-up-1l.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Thums Up 1 L",
+    "source": {
+      "name": "Thums Up 1 L",
+      "page": "https://fetchnbuy.in/products/thums-up-soft-drink-1-l-bottle",
+      "image": "https://cdn.shopify.com/s/files/1/0523/9934/1736/products/265707-2_6-thums-up-thums-up-soft-drink.jpg?v=1648800420"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 500,
+      "height": 500
+    },
+    "newImage": "/sip-n-scoop/premium/thums-up-1l.webp",
+    "reason": "Replaced generic, busy or low-detail image with the named beverage in its bottle/carton format."
+  },
+  {
+    "slug": "sip-thums-up-xforce-10",
+    "name": "Thums Up XForce",
+    "oldImage": "/sip-n-scoop/v9/thums-up-xforce-10.webp",
+    "file": "thums-up-xforce-10.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Thums Up XForce",
+    "source": {
+      "name": "Thums Up X Force bottle",
+      "page": "https://www.swiggy.com/instamart/p/thums-up-x-force-OOVEQYEAHU",
+      "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/NI_CATALOG/IMAGES/ciw/2025/8/21/ffb42602-70de-4b4a-b237-99370f413237_NPI-010740_1_20250821_091658.png"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1920,
+      "height": 1920
+    },
+    "newImage": "/sip-n-scoop/premium/thums-up-xforce-10.webp",
+    "reason": "Replaced generic, busy or low-detail image with the named beverage in its bottle/carton format."
+  },
+  {
+    "slug": "sip-campa-orange-10",
+    "name": "Campa Orange",
+    "oldImage": "/sip-n-scoop/v9/campa-orange-10.webp",
+    "file": "campa-orange-10.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Campa Orange",
+    "source": {
+      "name": "Campa Orange bottle",
+      "page": "https://www.starquik.com/products/campa-orange-flavoured-drink-pet-bottle-200-ml-sc-sm55",
+      "image": "https://www.starquik.com/cdn/shop/files/SQ282302_1_c275cab5-0baf-4b25-bb7a-6bcfdb0265f4.jpg?v=1777091163"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 500,
+      "height": 500
+    },
+    "newImage": "/sip-n-scoop/premium/campa-orange-10.webp",
+    "reason": "Replaced generic, busy or low-detail image with the named beverage in its bottle/carton format."
+  },
+  {
+    "slug": "sip-campa-cola-10",
+    "name": "Campa Cola",
+    "oldImage": "/sip-n-scoop/v9/campa-cola-10.webp",
+    "file": "campa-cola-10.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Campa Cola",
+    "source": {
+      "name": "Campa Cola bottle",
+      "page": "https://www.starquik.com/products/campa-cola-flavoured-drink-pet-bottle-200-ml-sc-sm02",
+      "image": "https://www.starquik.com/cdn/shop/files/SQ282300_1_c089f9f5-795c-4f70-bd3c-87f4c252cb39.jpg?v=1773209772"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 500,
+      "height": 500
+    },
+    "newImage": "/sip-n-scoop/premium/campa-cola-10.webp",
+    "reason": "Replaced generic, busy or low-detail image with the named beverage in its bottle/carton format."
+  },
+  {
+    "slug": "sip-raskik-nimbu-paani-10",
+    "name": "RasKik Nimbu Paani",
+    "oldImage": "/sip-n-scoop/v9/raskik-nimbu-paani-10.webp",
+    "file": "raskik-nimbu-paani-10.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "RasKik Nimbu Paani",
+    "source": {
+      "name": "Raskik Nimbu Pani PET 150ml",
+      "page": "https://www.kpnfresh.com/raskik-nimbu-pani-pet/p/20000877",
+      "image": "https://services.kpnfresh.com/media/v1/products/images/1c6261f6-bbb8-4b92-af3a-9ae81b9c6f1f/raskik-nimbu-pani-pet.webp"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "newImage": "/sip-n-scoop/premium/raskik-nimbu-paani-10.webp",
+    "reason": "Replaced generic, busy or low-detail image with the named beverage in its bottle/carton format."
+  },
+  {
+    "slug": "sip-coke-zero-10",
+    "name": "Coke Zero",
+    "oldImage": "/sip-n-scoop/sip-coke-zero-10.svg",
+    "file": "sip-coke-zero-10.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Coke Zero",
+    "source": {
+      "name": "Coca-Cola Zero Sugar bottle",
+      "page": "https://www.coca-cola.com/np/en/brands/brand-coca-cola/product-coca-cola-zero",
+      "image": "https://www.coca-cola.com/content/dam/onexp/np/home-images/brands/coca-cola/Coke%20Zero%20250ML%20desktop.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "sourceDimensions": {
+      "width": 928,
+      "height": 928
+    },
+    "newImage": "/sip-n-scoop/premium/sip-coke-zero-10.webp",
+    "reason": "Replaced generic cola SVG with Coca-Cola Zero Sugar bottle photography."
+  },
+  {
+    "slug": "sip-lemon-jeera-10",
+    "name": "Lemon Jeera",
+    "oldImage": "/sip-n-scoop/sip-lemon-jeera-10.svg",
+    "file": "sip-lemon-jeera-10.webp",
+    "expectedFormat": "bottle",
+    "expectedRepresentation": "Lahori Zeera bottle (brand confirmed by user)",
+    "source": {
+      "name": "Lemon Jeera",
+      "page": "https://lahorizeera.com/",
+      "image": "https://lahorizeera.com/cdn/shop/files/Lahori_Zeera_160ml.png?v=1721297664"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "note": "User confirmed Lahori Zeera for the Lemon Jeera card.",
+    "sourceDimensions": {
+      "width": 4000,
+      "height": 4147
+    },
+    "newImage": "/sip-n-scoop/premium/sip-lemon-jeera-10.webp",
+    "reason": "Replaced generic cola SVG with official Lahori Zeera bottle, as confirmed by the user."
+  },
+  {
+    "slug": "sip-frooti-10",
+    "name": "Frooti",
+    "oldImage": "/sip-n-scoop/sip-frooti-10.svg",
+    "file": "sip-frooti-10.webp",
+    "expectedFormat": "mango drink carton",
+    "expectedRepresentation": "Frooti",
+    "source": {
+      "name": "Frooti Mango drink tetra pack",
+      "page": "https://www.bigbasket.com/pd/274035/frooti-drink-fresh-n-juicy-mango-150-ml-tetra/",
+      "image": "https://www.bbassets.com/media/uploads/p/xl/274035_8-frooti-drink-fresh-n-juicy-mango.jpg"
+    },
+    "status": "installed; flavour and format visually reviewed",
+    "crop": {
+      "left": 0,
+      "top": 0,
+      "width": 444,
+      "height": 600
+    },
+    "sourceDimensions": {
+      "width": 600,
+      "height": 600
+    },
+    "newImage": "/sip-n-scoop/premium/sip-frooti-10.webp",
+    "reason": "Replaced generic carton SVG with the Frooti mango tetra pack; removed side advertising panel."
+  }
+]

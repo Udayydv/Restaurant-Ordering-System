@@ -1,0 +1,2451 @@
+[
+  {
+    "slug": "handi-paneer",
+    "name": "Handi Paneer",
+    "description": "Freshly cooked Handi Paneer prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 270,
+      "full": 480
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 0
+  },
+  {
+    "slug": "paneer-lababdar",
+    "name": "Paneer Lababdar",
+    "description": "Freshly cooked Paneer Lababdar prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 180,
+      "full": 330
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 1
+  },
+  {
+    "slug": "malai-paneer",
+    "name": "Malai Paneer",
+    "description": "Freshly cooked Malai Paneer prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 180,
+      "full": 330
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 2
+  },
+  {
+    "slug": "paneer-butter-masala",
+    "name": "Paneer Butter Masala",
+    "description": "Freshly cooked Paneer Butter Masala prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 160,
+      "full": 270
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 3
+  },
+  {
+    "slug": "kadai-paneer",
+    "name": "Kadai Paneer",
+    "description": "Freshly cooked Kadai Paneer prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 150,
+      "full": 260
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 4
+  },
+  {
+    "slug": "paneer-korma",
+    "name": "Paneer Korma",
+    "description": "Freshly cooked Paneer Korma prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 150,
+      "full": 270
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 5
+  },
+  {
+    "slug": "paneer-kali-mirch",
+    "name": "Paneer Kali Mirch",
+    "description": "Freshly cooked Paneer Kali Mirch prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 140,
+      "full": 240
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 6
+  },
+  {
+    "slug": "paneer-changezi",
+    "name": "Paneer Changezi",
+    "description": "Freshly cooked Paneer Changezi prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 150,
+      "full": 270
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 7
+  },
+  {
+    "slug": "paneer-bhujia",
+    "name": "Paneer Bhujia",
+    "description": "Freshly cooked Paneer Bhujia prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 160,
+      "full": 270
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 8
+  },
+  {
+    "slug": "matar-paneer",
+    "name": "Matar Paneer",
+    "description": "Freshly cooked Matar Paneer prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 130,
+      "full": 230
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 9
+  },
+  {
+    "slug": "paneer-do-pyaza",
+    "name": "Paneer Do Pyaza",
+    "description": "Freshly cooked Paneer Do Pyaza prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 140,
+      "full": 260
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 10
+  },
+  {
+    "slug": "shahi-paneer",
+    "name": "Shahi Paneer",
+    "description": "Freshly cooked Shahi Paneer prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 140,
+      "full": 250
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 11
+  },
+  {
+    "slug": "mughlai-paneer",
+    "name": "Mughlai Paneer",
+    "description": "Freshly cooked Mughlai Paneer prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 150,
+      "full": 260
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 12
+  },
+  {
+    "slug": "dilli-paneer",
+    "name": "Dilli Paneer",
+    "description": "Freshly cooked Dilli Paneer prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 170,
+      "full": 290
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 13
+  },
+  {
+    "slug": "tawa-paneer",
+    "name": "Tawa Paneer",
+    "description": "Freshly cooked Tawa Paneer prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 80,
+      "full": 140
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 14
+  },
+  {
+    "slug": "tawa-fry-butter",
+    "name": "Tawa Fry Butter",
+    "description": "Freshly cooked Tawa Fry Butter prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 90,
+      "full": 150
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 15
+  },
+  {
+    "slug": "tawa-shahi",
+    "name": "Tawa Shahi",
+    "description": "Freshly cooked Tawa Shahi prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 160,
+      "full": 270
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 16
+  },
+  {
+    "slug": "tawa-punjabi-tadka",
+    "name": "Tawa Punjabi Tadka",
+    "description": "Freshly cooked Tawa Punjabi Tadka prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 90,
+      "full": 150
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 17
+  },
+  {
+    "slug": "mix-veg",
+    "name": "Mix Veg",
+    "description": "Freshly cooked Mix Veg prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 140,
+      "full": 240
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 18
+  },
+  {
+    "slug": "veg-kadai",
+    "name": "Veg Kadai",
+    "description": "Freshly cooked Veg Kadai prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 150,
+      "full": 260
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 19
+  },
+  {
+    "slug": "jeera-aloo",
+    "name": "Jeera Aloo",
+    "description": "Freshly cooked Jeera Aloo prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 70,
+      "full": 120
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 20
+  },
+  {
+    "slug": "aloo-do-pyaza",
+    "name": "Aloo Do Pyaza",
+    "description": "Freshly cooked Aloo Do Pyaza prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 90,
+      "full": 160
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 21
+  },
+  {
+    "slug": "masala-aloo",
+    "name": "Masala Aloo",
+    "description": "Freshly cooked Masala Aloo prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 70,
+      "full": 120
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 22
+  },
+  {
+    "slug": "aloo-dum",
+    "name": "Aloo Dum",
+    "description": "Freshly cooked Aloo Dum prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 110,
+      "full": 210
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 23
+  },
+  {
+    "slug": "aloo-matar",
+    "name": "Aloo Matar",
+    "description": "Freshly cooked Aloo Matar prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 70,
+      "full": 120
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 24
+  },
+  {
+    "slug": "chole-masala",
+    "name": "Chole Masala",
+    "description": "Freshly cooked Chole Masala prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 70,
+      "full": 130
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 25
+  },
+  {
+    "slug": "veg-kofta",
+    "name": "Veg Kofta",
+    "description": "Freshly cooked Veg Kofta prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 110,
+      "full": 200
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 26
+  },
+  {
+    "slug": "malai-kofta",
+    "name": "Malai Kofta",
+    "description": "Freshly cooked Malai Kofta prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 160,
+      "full": 270
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 27
+  },
+  {
+    "slug": "mushroom-masala",
+    "name": "Mushroom Masala",
+    "description": "Freshly cooked Mushroom Masala prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 150,
+      "full": 260
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 28
+  },
+  {
+    "slug": "mushroom-matar",
+    "name": "Mushroom Matar",
+    "description": "Freshly cooked Mushroom Matar prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 140,
+      "full": 230
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 29
+  },
+  {
+    "slug": "kadai-mushroom",
+    "name": "Kadai Mushroom",
+    "description": "Freshly cooked Kadai Mushroom prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 140,
+      "full": 250
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 30
+  },
+  {
+    "slug": "mushroom-do-pyaza",
+    "name": "Mushroom Do Pyaza",
+    "description": "Freshly cooked Mushroom Do Pyaza prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 130,
+      "full": 230
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 31
+  },
+  {
+    "slug": "papad-korma",
+    "name": "Papad Korma",
+    "description": "Freshly cooked Papad Korma prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 120,
+      "full": 210
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 32
+  },
+  {
+    "slug": "masala-chaap",
+    "name": "Masala Chaap",
+    "description": "Freshly cooked Masala Chaap prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 130,
+      "full": 230
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 33
+  },
+  {
+    "slug": "sev-bhaji",
+    "name": "Sev Bhaji",
+    "description": "Freshly cooked Sev Bhaji prepared in our pure-veg kitchen.",
+    "category": "main-course",
+    "prices": {
+      "half": 130,
+      "full": 230
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 34
+  },
+  {
+    "slug": "dahi-raita",
+    "name": "Dahi Raita",
+    "description": "Fresh and cooling Dahi Raita, prepared to order.",
+    "category": "raita",
+    "prices": {
+      "half": 60,
+      "full": 110
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 35
+  },
+  {
+    "slug": "veg-raita",
+    "name": "Veg Raita",
+    "description": "Fresh and cooling Veg Raita, prepared to order.",
+    "category": "raita",
+    "prices": {
+      "half": 90,
+      "full": 150
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 36
+  },
+  {
+    "slug": "kheera-raita",
+    "name": "Kheera Raita",
+    "description": "Fresh and cooling Kheera Raita, prepared to order.",
+    "category": "raita",
+    "prices": {
+      "half": 70,
+      "full": 120
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 37
+  },
+  {
+    "slug": "tawa-roti",
+    "name": "Tawa Roti",
+    "description": "Fresh Tawa Roti prepared hot for your order.",
+    "category": "roti",
+    "prices": {
+      "regular": 6
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 38
+  },
+  {
+    "slug": "butter-roti",
+    "name": "Butter Roti",
+    "description": "Fresh Butter Roti prepared hot for your order.",
+    "category": "roti",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 39
+  },
+  {
+    "slug": "plain-puri",
+    "name": "Plain Puri",
+    "description": "Fresh Plain Puri prepared hot for your order.",
+    "category": "roti",
+    "prices": {
+      "regular": 18
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 40
+  },
+  {
+    "slug": "plain-rice",
+    "name": "Plain Chawal",
+    "description": "Freshly cooked Plain Chawal, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 60,
+      "full": 110
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 41
+  },
+  {
+    "slug": "jeera-rice",
+    "name": "Jeera Chawal",
+    "description": "Freshly cooked Jeera Chawal, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 70,
+      "full": 120
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 42
+  },
+  {
+    "slug": "veg-pulao",
+    "name": "Veg Pulao",
+    "description": "Freshly cooked Veg Pulao, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 90,
+      "full": 140
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 43
+  },
+  {
+    "slug": "veg-biryani",
+    "name": "Veg Biryani",
+    "description": "Freshly cooked Veg Biryani, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 100,
+      "full": 160
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 44
+  },
+  {
+    "slug": "fried-rice",
+    "name": "Fried Chawal",
+    "description": "Freshly cooked Fried Chawal, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 90,
+      "full": 150
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 45
+  },
+  {
+    "slug": "matar-pulao",
+    "name": "Matar Pulao",
+    "description": "Freshly cooked Matar Pulao, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 90,
+      "full": 140
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 46
+  },
+  {
+    "slug": "paneer-pulao",
+    "name": "Paneer Pulao",
+    "description": "Freshly cooked Paneer Pulao, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 110,
+      "full": 180
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 47
+  },
+  {
+    "slug": "shahi-biryani",
+    "name": "Shahi Biryani",
+    "description": "Freshly cooked Shahi Biryani, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 130,
+      "full": 230
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 48
+  },
+  {
+    "slug": "hyderabadi-dum-veg-biryani",
+    "name": "Hyderabadi Dum Veg Biryani",
+    "description": "Freshly cooked Hyderabadi Dum Veg Biryani, aromatic and satisfying.",
+    "category": "rice",
+    "prices": {
+      "half": 150,
+      "full": 260
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 49
+  },
+  {
+    "slug": "ghar-ki-thali",
+    "name": "Ghar Ki Thali",
+    "description": "Dal, sabzi, 4 roti, salad and achar.",
+    "category": "thali",
+    "prices": {
+      "regular": 90
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 50
+  },
+  {
+    "slug": "sada-bhojan-thali",
+    "name": "Sada Bhojan Thali",
+    "description": "Dal, sabzi, chawal, 4 roti, salad, achar and papad.",
+    "category": "thali",
+    "prices": {
+      "regular": 120
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 51
+  },
+  {
+    "slug": "special-thali",
+    "name": "Special Thali",
+    "description": "Dal fry, matar paneer, chawal, roti, 1 sweet, salad, achar and papad.",
+    "category": "thali",
+    "prices": {
+      "regular": 140
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 52
+  },
+  {
+    "slug": "super-deluxe-thali",
+    "name": "Super Deluxe Thali",
+    "description": "Dal fry, paneer masala, mix veg, chawal, roti, salad, achar, papad, raita and mithai.",
+    "category": "thali",
+    "prices": {
+      "regular": 180
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 53
+  },
+  {
+    "slug": "maharaja-thali",
+    "name": "Maharaja Thali",
+    "description": "Paneer butter masala, dal fry, mix veg, chawal, roti, salad, achar, papad, raita, mithai and special chutney.",
+    "category": "thali",
+    "prices": {
+      "regular": 230
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": false,
+    "sortOrder": 54
+  },
+  {
+    "slug": "rajma-chawal",
+    "name": "Rajma Chawal",
+    "description": "Value combo of Rajma Chawal, prepared fresh after you order.",
+    "category": "combo",
+    "prices": {
+      "regular": 70
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 55
+  },
+  {
+    "slug": "chole-chawal",
+    "name": "Chole Chawal",
+    "description": "Value combo of Chole Chawal, prepared fresh after you order.",
+    "category": "combo",
+    "prices": {
+      "regular": 70
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 56
+  },
+  {
+    "slug": "dal-chawal",
+    "name": "Dal Chawal",
+    "description": "Value combo of Dal Chawal, prepared fresh after you order.",
+    "category": "combo",
+    "prices": {
+      "regular": 60
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 57
+  },
+  {
+    "slug": "puri-sabzi",
+    "name": "Puri Sabzi",
+    "description": "Value combo of Puri Sabzi, prepared fresh after you order.",
+    "category": "combo",
+    "prices": {
+      "regular": 60
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 58
+  },
+  {
+    "slug": "sabzi-4-roti",
+    "name": "Sabzi + 4 Roti",
+    "description": "Value combo of Sabzi + 4 Roti, prepared fresh after you order.",
+    "category": "combo",
+    "prices": {
+      "regular": 70
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 59
+  },
+  {
+    "slug": "dal-4-roti",
+    "name": "Dal + 4 Roti",
+    "description": "Value combo of Dal + 4 Roti, prepared fresh after you order.",
+    "category": "combo",
+    "prices": {
+      "regular": 70
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 60
+  },
+  {
+    "slug": "aloo-paratha",
+    "name": "Aloo Paratha",
+    "description": "Hot Aloo Paratha, freshly cooked on the tawa.",
+    "category": "paratha",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 61
+  },
+  {
+    "slug": "pyaz-paratha",
+    "name": "Pyaz Paratha",
+    "description": "Hot Pyaz Paratha, freshly cooked on the tawa.",
+    "category": "paratha",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 62
+  },
+  {
+    "slug": "paneer-paratha",
+    "name": "Paneer Paratha",
+    "description": "Hot Paneer Paratha, freshly cooked on the tawa.",
+    "category": "paratha",
+    "prices": {
+      "regular": 80
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 63
+  },
+  {
+    "slug": "plain-paratha",
+    "name": "Plain Paratha",
+    "description": "Hot Plain Paratha, freshly cooked on the tawa.",
+    "category": "paratha",
+    "prices": {
+      "regular": 25
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 64
+  },
+  {
+    "slug": "chole-bhature",
+    "name": "Chole Bhature",
+    "description": "Freshly prepared Chole Bhature, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "regular": 70
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 65
+  },
+  {
+    "slug": "paneer-pakoda",
+    "name": "Paneer Pakode (5 Pieces)",
+    "description": "Freshly prepared Paneer Pakode (5 Pieces), perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "half": 80,
+      "full": 140
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 66
+  },
+  {
+    "slug": "pyaz-pakoda",
+    "name": "Pyaz Pakode (10 Pieces)",
+    "description": "Freshly prepared Pyaz Pakode (10 Pieces), perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "half": 60,
+      "full": 110
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 67
+  },
+  {
+    "slug": "paneer-kurkure",
+    "name": "Paneer Kurkure (5 Pieces)",
+    "description": "Freshly prepared Paneer Kurkure (5 Pieces), perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "half": 90,
+      "full": 160
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 68
+  },
+  {
+    "slug": "plain-maggi",
+    "name": "Plain Maggi",
+    "description": "Freshly prepared Plain Maggi, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "half": 60,
+      "full": 100
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 69
+  },
+  {
+    "slug": "paneer-maggi-masala",
+    "name": "Paneer Maggi Masala",
+    "description": "Freshly prepared Paneer Maggi Masala, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "half": 70,
+      "full": 130
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 70
+  },
+  {
+    "slug": "veg-maggi-masala",
+    "name": "Veg Maggi Masala",
+    "description": "Freshly prepared Veg Maggi Masala, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "half": 90,
+      "full": 150
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 71
+  },
+  {
+    "slug": "maggi-masala",
+    "name": "Maggi Masala",
+    "description": "Freshly prepared Maggi Masala, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "half": 70,
+      "full": 120
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 72
+  },
+  {
+    "slug": "tea",
+    "name": "Tea",
+    "description": "Freshly prepared Tea, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 73
+  },
+  {
+    "slug": "special-tea",
+    "name": "Special Tea",
+    "description": "Freshly prepared Special Tea, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "regular": 30
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 74
+  },
+  {
+    "slug": "chaiwala-chai",
+    "name": "Chaiwala Chai",
+    "description": "Freshly prepared Chaiwala Chai, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "regular": 25
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 75
+  },
+  {
+    "slug": "coffee",
+    "name": "Coffee",
+    "description": "Freshly prepared Coffee, perfect for a quick bite.",
+    "category": "snacks",
+    "prices": {
+      "regular": 45
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 76
+  },
+  {
+    "slug": "chilli-paneer",
+    "name": "Chilli Paneer",
+    "description": "Freshly prepared Chilli Paneer in classic Indo-Chinese style.",
+    "category": "chinese",
+    "prices": {
+      "half": 170,
+      "full": 290
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 77
+  },
+  {
+    "slug": "chilli-soya-chunk",
+    "name": "Chilli Soya Chunk",
+    "description": "Freshly prepared Chilli Soya Chunk in classic Indo-Chinese style.",
+    "category": "chinese",
+    "prices": {
+      "half": 110,
+      "full": 190
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 78
+  },
+  {
+    "slug": "chilli-chutney",
+    "name": "Chilli Chutney",
+    "description": "Freshly prepared Chilli Chutney in classic Indo-Chinese style.",
+    "category": "chinese",
+    "prices": {
+      "half": 80,
+      "full": 130
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 79
+  },
+  {
+    "slug": "veg-chowmein",
+    "name": "Veg Chowmein",
+    "description": "Freshly prepared Veg Chowmein in classic Indo-Chinese style.",
+    "category": "chinese",
+    "prices": {
+      "half": 50,
+      "full": 70
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 80
+  },
+  {
+    "slug": "paneer-chowmein",
+    "name": "Paneer Chowmein",
+    "description": "Freshly prepared Paneer Chowmein in classic Indo-Chinese style.",
+    "category": "chinese",
+    "prices": {
+      "half": 70,
+      "full": 110
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 81
+  },
+  {
+    "slug": "veg-manchurian",
+    "name": "Veg Manchurian",
+    "description": "Freshly prepared Veg Manchurian in classic Indo-Chinese style.",
+    "category": "chinese",
+    "prices": {
+      "half": 110,
+      "full": 180
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 82
+  },
+  {
+    "slug": "paneer-manchurian",
+    "name": "Paneer Manchurian",
+    "description": "Freshly prepared Paneer Manchurian in classic Indo-Chinese style.",
+    "category": "chinese",
+    "prices": {
+      "half": 130,
+      "full": 210
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 83
+  },
+  {
+    "slug": "sip-havmor-cone-choco-block-brownie",
+    "name": "Havmor Choco Block Brownie Cone",
+    "description": "Havmor cone • 135 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-choco-block-brownie.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 99
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 180,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-belgian-silky-chocolate",
+    "name": "Havmor Belgian Silky Chocolate Cone",
+    "description": "Havmor cone • 110 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-belgian-silky-chocolate.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 60
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 181,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-cookie-n-cream",
+    "name": "Havmor Cookie N Cream Cone",
+    "description": "Havmor cone • 110 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-cookie-n-cream.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 182,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-dark-chocolate",
+    "name": "Havmor Dark Chocolate Cone",
+    "description": "Havmor cone • 110 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-dark-chocolate.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 183,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-kesar-pista",
+    "name": "Havmor Kesar Pista Cone",
+    "description": "Havmor cone • 110 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-kesar-pista.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 184,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-choco-brownie",
+    "name": "Havmor Choco Brownie Cone",
+    "description": "Havmor cone • 110 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-choco-brownie.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 45
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 185,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-chocolate",
+    "name": "Havmor Chocolate Cone",
+    "description": "Havmor cone • 110 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-chocolate.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 40
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 186,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-yummy-strawberry",
+    "name": "Havmor Yummy Strawberry Cone",
+    "description": "Havmor cone • 110 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-yummy-strawberry.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 35
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 187,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-butter-scotch",
+    "name": "Havmor Butter Scotch Cone",
+    "description": "Havmor cone • 110 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-butter-scotch.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 30
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 188,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-chic-chocolate",
+    "name": "Havmor Chic Chocolate Cone",
+    "description": "Havmor cone • 90 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-chic-chocolate.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 30
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 189,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-choco-vanilla",
+    "name": "Havmor Choco Vanilla Cone",
+    "description": "Havmor cone • 100 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-choco-vanilla.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 190,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-havmor-butter-scotch",
+    "name": "Havmor Butterscotch 80 ml",
+    "description": "Havmor cone • 80 ml. Price shown separately below.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-havmor-butter-scotch.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 191,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cone-magic-butter-scotch",
+    "name": "Havmor Butterscotch",
+    "description": "Havmor butterscotch cone • 40 ml.",
+    "category": "sip-cones",
+    "image": "/sip-n-scoop/premium/cone-magic-butter-scotch.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 192,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-bar-jumbo-crunchy-chocobar",
+    "name": "Havmor Jumbo Crunchy Chocobar",
+    "description": "Chocolate bar • 75 ml.",
+    "category": "sip-bars",
+    "image": "/sip-n-scoop/premium/bar-jumbo-crunchy-chocobar.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 30
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 193,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-bar-jumbo-classic-chocobar",
+    "name": "Havmor Jumbo Classic Chocobar",
+    "description": "Chocolate bar • 70 ml.",
+    "category": "sip-bars",
+    "image": "/sip-n-scoop/premium/bar-jumbo-classic-chocobar.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 194,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-bar-zulubar-dark-crunch",
+    "name": "Havmor Zulubar Dark Crunch",
+    "description": "Chocolate bar • 80 ml.",
+    "category": "sip-bars",
+    "image": "/sip-n-scoop/premium/bar-zulubar-dark-crunch.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 195,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-bar-zulubar",
+    "name": "Havmor Zulubar",
+    "description": "Chocolate bar • 80 ml.",
+    "category": "sip-bars",
+    "image": "/sip-n-scoop/premium/bar-zulubar.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 45
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 196,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-dolly-jumbo-mango-dolly",
+    "name": "Havmor Jumbo Mango Dolly",
+    "description": "Frozen dolly • 70 ml.",
+    "category": "sip-dollies",
+    "image": "/sip-n-scoop/premium/dolly-jumbo-mango-dolly.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 197,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-dolly-jumbo-raspberry-dolly",
+    "name": "Havmor Jumbo Raspberry Dolly",
+    "description": "Frozen dolly • 70 ml.",
+    "category": "sip-dollies",
+    "image": "/sip-n-scoop/premium/dolly-jumbo-raspberry-dolly.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 198,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-fruit-aam",
+    "name": "Havmor Aam Fruit Candy",
+    "description": "Mango fruit candy • 70 ml.",
+    "category": "sip-fruit-candy",
+    "image": "/sip-n-scoop/premium/fruit-aam.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 30
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 199,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-ice-kachcha-aam",
+    "name": "Havmor Kachcha Aam Ice Candy",
+    "description": "Ice candy • 50 ml.",
+    "category": "sip-ice-candies",
+    "image": "/sip-n-scoop/premium/ice-kachcha-aam.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 200,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-ice-orange-bar",
+    "name": "Havmor Orange Bar Ice Candy",
+    "description": "Ice candy • 50 ml.",
+    "category": "sip-ice-candies",
+    "image": "/sip-n-scoop/premium/ice-orange-bar.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 201,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cup-butter-scotch",
+    "name": "Havmor Butter Scotch Cup",
+    "description": "Ice cream cup • 85 ml.",
+    "category": "sip-cups",
+    "image": "/sip-n-scoop/premium/cup-butter-scotch.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 202,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cup-vanilla-85",
+    "name": "Havmor Vanilla Cup",
+    "description": "Ice cream cup • 85 ml.",
+    "category": "sip-cups",
+    "image": "/sip-n-scoop/premium/cup-vanilla-85.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 203,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cup-vanilla-50",
+    "name": "Havmor Vanilla Mini Cup",
+    "description": "Ice cream cup • 50 ml.",
+    "category": "sip-cups",
+    "image": "/sip-n-scoop/premium/cup-vanilla-50.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 204,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cup-strawberry",
+    "name": "Havmor Strawberry Mini Cup",
+    "description": "Ice cream cup • 50 ml.",
+    "category": "sip-cups",
+    "image": "/sip-n-scoop/premium/cup-strawberry.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 205,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-cup-tutti-frutti",
+    "name": "Havmor Tutti Frutti Mini Cup",
+    "description": "Ice cream cup • 50 ml.",
+    "category": "sip-cups",
+    "image": "/sip-n-scoop/premium/cup-tutti-frutti.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 206,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-sundae-choco-brownie",
+    "name": "Havmor Choco Brownie Sundae Cup",
+    "description": "Sundae cup • 115 ml.",
+    "category": "sip-sundae",
+    "image": "/sip-n-scoop/premium/sundae-choco-brownie.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 35
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 207,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-sundae-choco",
+    "name": "Havmor Choco Sundae Cup",
+    "description": "Sundae cup • 75 ml.",
+    "category": "sip-sundae",
+    "image": "/sip-n-scoop/premium/sundae-choco.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 25
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 208,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-sundae-strawberry",
+    "name": "Havmor Strawberry Sundae Cup",
+    "description": "Sundae cup • 75 ml.",
+    "category": "sip-sundae",
+    "image": "/sip-n-scoop/premium/sundae-strawberry.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 209,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-nutty-belgian-dark-chocolate",
+    "name": "Havmor Nutty Belgian Dark Chocolate Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-nutty-belgian-dark-chocolate.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 55
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 210,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-rajbhog",
+    "name": "Havmor Rajbhog Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-rajbhog.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 211,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-rajwadi-kulfi-falooda",
+    "name": "Havmor Rajwadi Kulfi Falooda Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-rajwadi-kulfi-falooda.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 40
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 212,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-kesar-pista",
+    "name": "Havmor Kesar Pista Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-kesar-pista.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 40
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 213,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-chocolate-chips",
+    "name": "Havmor Chocolate Chips Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-chocolate-chips.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 40
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 214,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-premium-kaju-kishmish",
+    "name": "Havmor Premium Kaju Kishmish Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-premium-kaju-kishmish.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 35
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 215,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-american-nuts",
+    "name": "Havmor American Nuts Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-american-nuts.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 35
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 216,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-vanilla",
+    "name": "Havmor Vanilla Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-vanilla.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 25
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 217,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-dark-chocolate-zero-sugar",
+    "name": "Havmor Dark Chocolate Zero Sugar Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-dark-chocolate-zero-sugar.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 60
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 218,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-kesar-pista-zero-sugar",
+    "name": "Havmor Kesar Pista Zero Sugar Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-kesar-pista-zero-sugar.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 219,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-jumbo-vanilla-zero-sugar",
+    "name": "Havmor Vanilla Zero Sugar Jumbo Cup",
+    "description": "Jumbo ice cream cup • 110 ml.",
+    "category": "sip-jumbo-cups",
+    "image": "/sip-n-scoop/premium/jumbo-vanilla-zero-sugar.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 40
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 220,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-matka",
+    "name": "Havmor Matka Kulfi",
+    "description": "Havmor kulfi • 100 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-matka.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 60
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 221,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-kashmiri-kesar",
+    "name": "Havmor Kashmiri Kesar Kulfi",
+    "description": "Havmor kulfi • 50 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-kashmiri-kesar.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 30
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 222,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-chowpaty",
+    "name": "Havmor Chowpaty Kulfi",
+    "description": "Havmor kulfi • 60 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-chowpaty.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 40
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 223,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-dryfruit-rabdi",
+    "name": "Havmor Dryfruit Rabdi Kulfi",
+    "description": "Havmor kulfi • 70 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-dryfruit-rabdi.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 40
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 224,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-raj-bhog",
+    "name": "Havmor Raj Bhog Kulfi",
+    "description": "Havmor kulfi • 50 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-raj-bhog.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 30
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 225,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-mava-tillewali",
+    "name": "Havmor Mava Tillewali Kulfi",
+    "description": "Havmor kulfi • 60 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-mava-tillewali.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 30
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 226,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-shahi",
+    "name": "Havmor Shahi Kulfi",
+    "description": "Havmor kulfi • 50 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-shahi.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 25
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 227,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-bombay",
+    "name": "Havmor Bombay Kulfi",
+    "description": "Havmor kulfi • 50 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-bombay.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 228,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-rajwadi",
+    "name": "Havmor Rajwadi Kulfi",
+    "description": "Havmor kulfi • 50 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-rajwadi.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 229,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-mava-malai",
+    "name": "Havmor Mava Malai Kulfi",
+    "description": "Havmor kulfi • 35 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-mava-malai.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 230,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-kulfi-sf-malai",
+    "name": "Havmor SF Malai Kulfi",
+    "description": "Havmor kulfi • 60 ml.",
+    "category": "sip-kulfi",
+    "image": "/sip-n-scoop/premium/kulfi-sf-malai.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 40
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 231,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-rajbhog",
+    "name": "Havmor Rajbhog Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-rajbhog.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 390
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": false,
+    "sortOrder": 232,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-kesar-pista",
+    "name": "Havmor Kesar Pista Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-kesar-pista.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 360
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 233,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-american-nuts",
+    "name": "Havmor American Nuts Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-american-nuts.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 330
+    },
+    "isAvailable": true,
+    "isFeatured": true,
+    "isBestseller": false,
+    "sortOrder": 234,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-almond-carnival",
+    "name": "Havmor Almond Carnival Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-almond-carnival.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 330
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 235,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-choco-brownie",
+    "name": "Havmor Choco Brownie Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-choco-brownie.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 320
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 236,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-chocolate-chips",
+    "name": "Havmor Chocolate Chips Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-chocolate-chips.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 320
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 237,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-kaju-draksh",
+    "name": "Havmor Kaju Draksh Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-kaju-draksh.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 300
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 238,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-alphonso-mango",
+    "name": "Havmor Alphonso Mango Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-alphonso-mango.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 300
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 239,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-cookie-cream",
+    "name": "Havmor Cookie Cream Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-cookie-cream.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 300
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 240,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-black-currant",
+    "name": "Havmor Black Currant Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-black-currant.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 300
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 241,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-tutti-frutti",
+    "name": "Havmor Tutti Frutti Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-tutti-frutti.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 280
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 242,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-crunchy-butter-scotch",
+    "name": "Havmor Crunchy Butter Scotch Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-crunchy-butter-scotch.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 260
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 243,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-strawberry",
+    "name": "Havmor Strawberry Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-strawberry.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 220
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 244,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-vanilla",
+    "name": "Havmor Vanilla Brick Combo",
+    "description": "Havmor family ice cream pack • 700 ml + 700 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-vanilla.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 220
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 245,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-taj-mahal",
+    "name": "Havmor Taj Mahal Brick",
+    "description": "Havmor family ice cream pack • poster pack.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-taj-mahal.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 400
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 246,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-butterscotch-cookie",
+    "name": "Havmor Butter Scotch Cookie Brick",
+    "description": "Havmor family ice cream pack • 500 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-butterscotch-cookie.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 280
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 247,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-havmor-brick-italian-cassata",
+    "name": "Havmor Italian Cassata Brick",
+    "description": "Havmor family ice cream pack • 500 ml.",
+    "category": "sip-bricks",
+    "image": "/sip-n-scoop/premium/brick-italian-cassata.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 320
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 248,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-independence-water-750",
+    "name": "Independence Water 750 ml",
+    "description": "Chilled 750 ml drinking water.",
+    "category": "sip-water",
+    "image": "/sip-n-scoop/premium/independence-water-750.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 249,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-bisleri-1l",
+    "name": "Bisleri Water 1 L",
+    "description": "Chilled Bisleri 1 litre bottle.",
+    "category": "sip-water",
+    "image": "/sip-n-scoop/premium/bisleri-1l.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 20
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 250,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-sprite-1l",
+    "name": "Sprite 1 L",
+    "description": "Chilled Sprite 1 litre bottle.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/sprite-1l.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 251,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-coca-cola-1l",
+    "name": "Coca-Cola 1 L",
+    "description": "Chilled Coca-Cola 1 litre bottle.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/coca-cola-1l.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 252,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-thums-up-1l",
+    "name": "Thums Up 1 L",
+    "description": "Chilled Thums Up 1 litre bottle.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/thums-up-1l.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 50
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 253,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-thums-up-xforce-10",
+    "name": "Thums Up XForce",
+    "description": "Chilled ₹10 single-serve Thums Up XForce.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/thums-up-xforce-10.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 254,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-campa-orange-10",
+    "name": "Campa Orange",
+    "description": "Chilled ₹10 Campa Orange.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/campa-orange-10.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 255,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-campa-cola-10",
+    "name": "Campa Cola",
+    "description": "Chilled ₹10 Campa Cola.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/campa-cola-10.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": true,
+    "sortOrder": 256,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-raskik-nimbu-paani-10",
+    "name": "RasKik Nimbu Paani",
+    "description": "Chilled ₹10 lemon drink.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/raskik-nimbu-paani-10.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 257,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-coke-zero-10",
+    "name": "Coke Zero",
+    "description": "₹10 single-serve Coke Zero.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/sip-coke-zero-10.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 258,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-lemon-jeera-10",
+    "name": "Lemon Jeera",
+    "description": "₹10 lemon jeera drink.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/sip-lemon-jeera-10.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 259,
+    "seedVersion": 10
+  },
+  {
+    "slug": "sip-frooti-10",
+    "name": "Frooti",
+    "description": "₹10 Frooti pack.",
+    "category": "sip-drinks",
+    "image": "/sip-n-scoop/premium/sip-frooti-10.webp",
+    "section": "sip-n-scoop",
+    "prices": {
+      "regular": 10
+    },
+    "isAvailable": true,
+    "isFeatured": false,
+    "isBestseller": false,
+    "sortOrder": 260,
+    "seedVersion": 10
+  }
+]

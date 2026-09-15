@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#261547"/><stop offset="1" stop-color="#ff5d8f"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-opacity=".25"/></filter></defs>
+<rect width="800" height="600" rx="36" fill="url(#g)"/>
+<circle cx="110" cy="110" r="85" fill="#ffd36e" opacity=".18"/><circle cx="720" cy="480" r="125" fill="#fff" opacity=".08"/>
+<g filter="url(#s)"><path d="M300 205 Q400 120 500 205 L450 315 Q400 355 350 315Z" fill="#f7d4a2"/><path d="M350 302 L450 302 L405 500 Q400 525 395 500Z" fill="#c78b4d"/><path d="M365 325 L435 430 M435 325 L370 430" stroke="#8a5a2b" stroke-width="8" opacity=".5"/></g>
+<text x="55" y="70" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="800" letter-spacing="3">SIP N SCOOP</text>
+<text x="55" y="535" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="800">Crunchy Butterscotch</text>
+<rect x="620" y="40" width="130" height="62" rx="31" fill="#fff"/><text x="685" y="81" text-anchor="middle" fill="#261547" font-family="Arial,sans-serif" font-size="28" font-weight="900">₹30</text>
+</svg>

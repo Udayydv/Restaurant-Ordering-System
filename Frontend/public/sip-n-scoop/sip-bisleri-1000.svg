@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b3150"/><stop offset="1" stop-color="#17a6d8"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-opacity=".25"/></filter></defs>
+<rect width="800" height="600" rx="36" fill="url(#g)"/>
+<circle cx="110" cy="110" r="85" fill="#a8edff" opacity=".18"/><circle cx="720" cy="480" r="125" fill="#fff" opacity=".08"/>
+<g filter="url(#s)"><path d="M365 145 H435 V195 Q455 220 455 265 V495 Q455 520 430 520 H370 Q345 520 345 495 V265 Q345 220 365 195Z" fill="#d9f5ff" stroke="#72c8e8" stroke-width="7"/><rect x="358" y="300" width="84" height="92" rx="12" fill="#41b7db"/><rect x="370" y="130" width="60" height="35" rx="8" fill="#2c7fd3"/></g>
+<text x="55" y="70" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="800" letter-spacing="3">SIP N SCOOP</text>
+<text x="55" y="535" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="800">Bisleri 1 L</text>
+<rect x="620" y="40" width="130" height="62" rx="31" fill="#fff"/><text x="685" y="81" text-anchor="middle" fill="#0b3150" font-family="Arial,sans-serif" font-size="28" font-weight="900">₹20</text>
+</svg>

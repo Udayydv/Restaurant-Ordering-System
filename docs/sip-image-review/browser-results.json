@@ -1,0 +1,1733 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-block-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-belgian-silky-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-cookie-n-cream-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-dark-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-yummy-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-chic-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-havmor-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-magic-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-jumbo-crunchy-chocobar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-jumbo-classic-chocobar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-zulubar-dark-crunch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-zulubar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/dolly-jumbo-mango-dolly-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/dolly-jumbo-raspberry-dolly-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/fruit-aam-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/ice-kachcha-aam-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/ice-orange-bar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-vanilla-85-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-vanilla-50-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-tutti-frutti-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-choco-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-nutty-belgian-dark-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-rajbhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-rajwadi-kulfi-falooda-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-chocolate-chips-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-premium-kaju-kishmish-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-american-nuts-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-dark-chocolate-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-kesar-pista-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-vanilla-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-matka-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-kashmiri-kesar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-chowpaty-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-dryfruit-rabdi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-raj-bhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-mava-tillewali-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-shahi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-bombay-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-rajwadi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-mava-malai-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-sf-malai-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-rajbhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-american-nuts-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-almond-carnival-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-chocolate-chips-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-kaju-draksh-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-alphonso-mango-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-cookie-cream-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-black-currant-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-tutti-frutti-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-crunchy-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-taj-mahal-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-butterscotch-cookie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-italian-cassata-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/independence-water-750-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bisleri-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sprite-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/coca-cola-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/thums-up-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/thums-up-xforce-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/campa-orange-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/campa-cola-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/raskik-nimbu-paani-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-coke-zero-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-lemon-jeera-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-frooti-10-480.webp"
+        }
+      ],
+      "cards": [
+        {
+          "width": 300,
+          "height": 460
+        },
+        {
+          "width": 300,
+          "height": 460
+        },
+        {
+          "width": 300,
+          "height": 460
+        },
+        {
+          "width": 300,
+          "height": 460
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-block-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-belgian-silky-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-cookie-n-cream-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-dark-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-yummy-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-chic-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-havmor-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-magic-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-jumbo-crunchy-chocobar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-jumbo-classic-chocobar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-zulubar-dark-crunch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-zulubar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/dolly-jumbo-mango-dolly-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/dolly-jumbo-raspberry-dolly-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/fruit-aam-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/ice-kachcha-aam-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/ice-orange-bar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-vanilla-85-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-vanilla-50-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-tutti-frutti-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-choco-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-nutty-belgian-dark-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-rajbhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-rajwadi-kulfi-falooda-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-chocolate-chips-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-premium-kaju-kishmish-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-american-nuts-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-dark-chocolate-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-kesar-pista-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-vanilla-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-matka-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-kashmiri-kesar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-chowpaty-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-dryfruit-rabdi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-raj-bhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-mava-tillewali-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-shahi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-bombay-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-rajwadi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-mava-malai-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-sf-malai-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-rajbhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-american-nuts-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-almond-carnival-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-chocolate-chips-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-kaju-draksh-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-alphonso-mango-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-cookie-cream-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-black-currant-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-tutti-frutti-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-crunchy-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-taj-mahal-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-butterscotch-cookie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-italian-cassata-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/independence-water-750-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bisleri-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sprite-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/coca-cola-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/thums-up-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/thums-up-xforce-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/campa-orange-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/campa-cola-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/raskik-nimbu-paani-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-coke-zero-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-lemon-jeera-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-frooti-10-480.webp"
+        }
+      ],
+      "cards": [
+        {
+          "width": 235,
+          "height": 395
+        },
+        {
+          "width": 235,
+          "height": 395
+        },
+        {
+          "width": 235,
+          "height": 395
+        },
+        {
+          "width": 235,
+          "height": 395
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-block-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-belgian-silky-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-cookie-n-cream-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-dark-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-yummy-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-chic-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-havmor-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-magic-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-jumbo-crunchy-chocobar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-jumbo-classic-chocobar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-zulubar-dark-crunch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-zulubar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/dolly-jumbo-mango-dolly-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/dolly-jumbo-raspberry-dolly-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/fruit-aam-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/ice-kachcha-aam-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/ice-orange-bar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-vanilla-85-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-vanilla-50-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-tutti-frutti-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-choco-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-nutty-belgian-dark-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-rajbhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-rajwadi-kulfi-falooda-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-chocolate-chips-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-premium-kaju-kishmish-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-american-nuts-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-dark-chocolate-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-kesar-pista-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-vanilla-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-matka-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-kashmiri-kesar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-chowpaty-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-dryfruit-rabdi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-raj-bhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-mava-tillewali-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-shahi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-bombay-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-rajwadi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-mava-malai-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-sf-malai-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-rajbhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-american-nuts-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-almond-carnival-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-chocolate-chips-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-kaju-draksh-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-alphonso-mango-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-cookie-cream-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-black-currant-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-tutti-frutti-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-crunchy-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-taj-mahal-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-butterscotch-cookie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-italian-cassata-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/independence-water-750-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bisleri-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sprite-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/coca-cola-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/thums-up-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/thums-up-xforce-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/campa-orange-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/campa-cola-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/raskik-nimbu-paani-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-coke-zero-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-lemon-jeera-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-frooti-10-480.webp"
+        }
+      ],
+      "cards": [
+        {
+          "width": 173,
+          "height": 337
+        },
+        {
+          "width": 173,
+          "height": 337
+        },
+        {
+          "width": 173,
+          "height": 317
+        },
+        {
+          "width": 173,
+          "height": 317
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "overflow": false,
+      "images": [
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-block-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-belgian-silky-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-cookie-n-cream-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-dark-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-yummy-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-chic-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-choco-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-havmor-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cone-magic-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-jumbo-crunchy-chocobar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-jumbo-classic-chocobar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-zulubar-dark-crunch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bar-zulubar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/dolly-jumbo-mango-dolly-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/dolly-jumbo-raspberry-dolly-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/fruit-aam-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/ice-kachcha-aam-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/ice-orange-bar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-vanilla-85-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-vanilla-50-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/cup-tutti-frutti-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-choco-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sundae-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-nutty-belgian-dark-chocolate-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-rajbhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-rajwadi-kulfi-falooda-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-chocolate-chips-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-premium-kaju-kishmish-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-american-nuts-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-dark-chocolate-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-kesar-pista-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/jumbo-vanilla-zero-sugar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-matka-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-kashmiri-kesar-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-chowpaty-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-dryfruit-rabdi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-raj-bhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-mava-tillewali-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-shahi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-bombay-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-rajwadi-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-mava-malai-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/kulfi-sf-malai-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-rajbhog-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-kesar-pista-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-american-nuts-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-almond-carnival-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-choco-brownie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-chocolate-chips-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-kaju-draksh-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-alphonso-mango-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-cookie-cream-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-black-currant-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-tutti-frutti-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-crunchy-butter-scotch-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-strawberry-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-vanilla-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-taj-mahal-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-butterscotch-cookie-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/brick-italian-cassata-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/independence-water-750-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/bisleri-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sprite-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/coca-cola-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/thums-up-1l-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/thums-up-xforce-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/campa-orange-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/campa-cola-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/raskik-nimbu-paani-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-coke-zero-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-lemon-jeera-10-480.webp"
+        },
+        {
+          "ok": true,
+          "fit": "contain",
+          "src": "http://127.0.0.1:8080/sip-n-scoop/premium/sip-frooti-10-480.webp"
+        }
+      ],
+      "cards": [
+        {
+          "width": 138,
+          "height": 322
+        },
+        {
+          "width": 138,
+          "height": 322
+        },
+        {
+          "width": 138,
+          "height": 302
+        },
+        {
+          "width": 138,
+          "height": 302
+        }
+      ]
+    }
+  ],
+  "dialog": {
+    "loaded": true,
+    "fit": "contain"
+  },
+  "errors": [],
+  "functionalChecks": [
+    "Lemon Jeera search returns one card",
+    "Add, increase and decrease quantity",
+    "Cart image uses new asset with contain",
+    "Cold Drinks filter returns ten products",
+    "Saved legacy Lemon Jeera cart URL resolves to premium asset"
+  ],
+  "testMode": "Local frontend with mocked public API responses from the real seed catalog; no live database, checkout submission or deployment performed."
+}

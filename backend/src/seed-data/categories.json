@@ -1,0 +1,140 @@
+[
+  {
+    "name": "main-course",
+    "description": "Main Course",
+    "isActive": true,
+    "sortOrder": 0
+  },
+  {
+    "name": "raita",
+    "description": "Raita",
+    "isActive": true,
+    "sortOrder": 1
+  },
+  {
+    "name": "roti",
+    "description": "Roti & Poori",
+    "isActive": true,
+    "sortOrder": 2
+  },
+  {
+    "name": "rice",
+    "description": "Rice & Biryani",
+    "isActive": true,
+    "sortOrder": 3
+  },
+  {
+    "name": "thali",
+    "description": "Thalis",
+    "isActive": true,
+    "sortOrder": 4
+  },
+  {
+    "name": "combo",
+    "description": "Combo",
+    "isActive": true,
+    "sortOrder": 5
+  },
+  {
+    "name": "paratha",
+    "description": "Paratha",
+    "isActive": true,
+    "sortOrder": 6
+  },
+  {
+    "name": "snacks",
+    "description": "Snacks & Beverages",
+    "isActive": true,
+    "sortOrder": 7
+  },
+  {
+    "name": "chinese",
+    "description": "Chinese",
+    "isActive": true,
+    "sortOrder": 8
+  },
+  {
+    "name": "sip-cones",
+    "description": "Sip n Scoop • Cones",
+    "icon": "🍦",
+    "isActive": true,
+    "sortOrder": 90
+  },
+  {
+    "name": "sip-bars",
+    "description": "Sip n Scoop • Chocolate Bars",
+    "icon": "🍫",
+    "isActive": true,
+    "sortOrder": 91
+  },
+  {
+    "name": "sip-dollies",
+    "description": "Sip n Scoop • Dollies",
+    "icon": "🍡",
+    "isActive": true,
+    "sortOrder": 92
+  },
+  {
+    "name": "sip-fruit-candy",
+    "description": "Sip n Scoop • Fruit Candy",
+    "icon": "🥭",
+    "isActive": true,
+    "sortOrder": 93
+  },
+  {
+    "name": "sip-ice-candies",
+    "description": "Sip n Scoop • Ice Candies",
+    "icon": "🧊",
+    "isActive": true,
+    "sortOrder": 94
+  },
+  {
+    "name": "sip-cups",
+    "description": "Sip n Scoop • Cups",
+    "icon": "🍨",
+    "isActive": true,
+    "sortOrder": 95
+  },
+  {
+    "name": "sip-sundae",
+    "description": "Sip n Scoop • Sundae Cups",
+    "icon": "🍧",
+    "isActive": true,
+    "sortOrder": 96
+  },
+  {
+    "name": "sip-jumbo-cups",
+    "description": "Sip n Scoop • Jumbo Cups",
+    "icon": "🥣",
+    "isActive": true,
+    "sortOrder": 97
+  },
+  {
+    "name": "sip-kulfi",
+    "description": "Sip n Scoop • Kulfis",
+    "icon": "🍦",
+    "isActive": true,
+    "sortOrder": 98
+  },
+  {
+    "name": "sip-bricks",
+    "description": "Sip n Scoop • Bricks & Family Packs",
+    "icon": "📦",
+    "isActive": true,
+    "sortOrder": 99
+  },
+  {
+    "name": "sip-drinks",
+    "description": "Sip n Scoop • Cold Drinks",
+    "icon": "🥤",
+    "isActive": true,
+    "sortOrder": 100
+  },
+  {
+    "name": "sip-water",
+    "description": "Sip n Scoop • Water",
+    "icon": "💧",
+    "isActive": true,
+    "sortOrder": 101
+  }
+]

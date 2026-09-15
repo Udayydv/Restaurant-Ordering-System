@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3d183e"/><stop offset="1" stop-color="#ff8f70"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-opacity=".25"/></filter></defs>
+<rect width="800" height="600" rx="36" fill="url(#g)"/>
+<circle cx="110" cy="110" r="85" fill="#ffd39b" opacity=".18"/><circle cx="720" cy="480" r="125" fill="#fff" opacity=".08"/>
+<g filter="url(#s)"><ellipse cx="400" cy="250" rx="135" ry="55" fill="#d48752"/><path d="M285 250 Q300 475 400 500 Q500 475 515 250Z" fill="#b96235"/><ellipse cx="400" cy="248" rx="110" ry="38" fill="#ffe2a1"/><circle cx="365" cy="240" r="9" fill="#62914e"/><circle cx="410" cy="255" r="10" fill="#6f994e"/><circle cx="440" cy="235" r="8" fill="#c69136"/></g>
+<text x="55" y="70" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="800" letter-spacing="3">SIP N SCOOP</text>
+<text x="55" y="535" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="800">Matka Kulfi</text>
+<rect x="620" y="40" width="130" height="62" rx="31" fill="#fff"/><text x="685" y="81" text-anchor="middle" fill="#3d183e" font-family="Arial,sans-serif" font-size="28" font-weight="900">₹55</text>
+</svg>

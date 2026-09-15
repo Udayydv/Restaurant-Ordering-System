@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#113c2d"/><stop offset="1" stop-color="#f59e0b"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-opacity=".25"/></filter></defs>
+<rect width="800" height="600" rx="36" fill="url(#g)"/>
+<circle cx="110" cy="110" r="85" fill="#ffd54a" opacity=".18"/><circle cx="720" cy="480" r="125" fill="#fff" opacity=".08"/>
+<g filter="url(#s)"><path d="M325 160 H475 L500 210 V485 H300 V210Z" fill="#ffc928"/><path d="M325 160 L300 210 H500 L475 160Z" fill="#ff9e1a"/><path d="M400 250 C470 300 450 405 385 420 C330 430 315 345 360 305 C375 292 390 275 400 250Z" fill="#f58a18"/></g>
+<text x="55" y="70" fill="#fff" font-family="Arial,sans-serif" font-size="28" font-weight="800" letter-spacing="3">SIP N SCOOP</text>
+<text x="55" y="535" fill="#fff" font-family="Arial,sans-serif" font-size="30" font-weight="800">Frooti</text>
+<rect x="620" y="40" width="130" height="62" rx="31" fill="#fff"/><text x="685" y="81" text-anchor="middle" fill="#113c2d" font-family="Arial,sans-serif" font-size="28" font-weight="900">₹10</text>
+</svg>

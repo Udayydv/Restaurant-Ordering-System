@@ -1,0 +1,488 @@
+[
+  {
+    "slug": "sip-havmor-cone-choco-block-brownie",
+    "name": "Havmor Choco Block Brownie Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-choco-block-brownie.webp",
+    "file": "cone-choco-block-brownie.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-belgian-silky-chocolate",
+    "name": "Havmor Belgian Silky Chocolate Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-belgian-silky-chocolate.webp",
+    "file": "cone-belgian-silky-chocolate.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-cookie-n-cream",
+    "name": "Havmor Cookie N Cream Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-cookie-n-cream.webp",
+    "file": "cone-cookie-n-cream.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-dark-chocolate",
+    "name": "Havmor Dark Chocolate Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-dark-chocolate.webp",
+    "file": "cone-dark-chocolate.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-kesar-pista",
+    "name": "Havmor Kesar Pista Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-kesar-pista.webp",
+    "file": "cone-kesar-pista.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-choco-brownie",
+    "name": "Havmor Choco Brownie Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-choco-brownie.webp",
+    "file": "cone-choco-brownie.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-chocolate",
+    "name": "Havmor Chocolate Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-chocolate.webp",
+    "file": "cone-chocolate.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-yummy-strawberry",
+    "name": "Havmor Yummy Strawberry Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-yummy-strawberry.webp",
+    "file": "cone-yummy-strawberry.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-butter-scotch",
+    "name": "Havmor Butter Scotch Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-butter-scotch.webp",
+    "file": "cone-butter-scotch.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-chic-chocolate",
+    "name": "Havmor Chic Chocolate Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-chic-chocolate.webp",
+    "file": "cone-chic-chocolate.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-choco-vanilla",
+    "name": "Havmor Choco Vanilla Cone",
+    "oldImage": "/sip-n-scoop/v9/cone-choco-vanilla.webp",
+    "file": "cone-choco-vanilla.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-havmor-butter-scotch",
+    "name": "Havmor Butterscotch 80 ml",
+    "oldImage": "/sip-n-scoop/v9/cone-havmor-butter-scotch.webp",
+    "file": "cone-havmor-butter-scotch.webp"
+  },
+  {
+    "slug": "sip-havmor-cone-magic-butter-scotch",
+    "name": "Havmor Butterscotch",
+    "oldImage": "/sip-n-scoop/v9/cone-magic-butter-scotch.webp",
+    "file": "cone-magic-butter-scotch.webp"
+  },
+  {
+    "slug": "sip-havmor-bar-jumbo-crunchy-chocobar",
+    "name": "Havmor Jumbo Crunchy Chocobar",
+    "oldImage": "/sip-n-scoop/v9/bar-jumbo-crunchy-chocobar.webp",
+    "file": "bar-jumbo-crunchy-chocobar.webp"
+  },
+  {
+    "slug": "sip-havmor-bar-jumbo-classic-chocobar",
+    "name": "Havmor Jumbo Classic Chocobar",
+    "oldImage": "/sip-n-scoop/v9/bar-jumbo-classic-chocobar.webp",
+    "file": "bar-jumbo-classic-chocobar.webp"
+  },
+  {
+    "slug": "sip-havmor-bar-zulubar-dark-crunch",
+    "name": "Havmor Zulubar Dark Crunch",
+    "oldImage": "/sip-n-scoop/v9/bar-zulubar-dark-crunch.webp",
+    "file": "bar-zulubar-dark-crunch.webp"
+  },
+  {
+    "slug": "sip-havmor-bar-zulubar",
+    "name": "Havmor Zulubar",
+    "oldImage": "/sip-n-scoop/v9/bar-zulubar.webp",
+    "file": "bar-zulubar.webp"
+  },
+  {
+    "slug": "sip-havmor-dolly-jumbo-mango-dolly",
+    "name": "Havmor Jumbo Mango Dolly",
+    "oldImage": "/sip-n-scoop/v9/dolly-jumbo-mango-dolly.webp",
+    "file": "dolly-jumbo-mango-dolly.webp"
+  },
+  {
+    "slug": "sip-havmor-dolly-jumbo-raspberry-dolly",
+    "name": "Havmor Jumbo Raspberry Dolly",
+    "oldImage": "/sip-n-scoop/v9/dolly-jumbo-raspberry-dolly.webp",
+    "file": "dolly-jumbo-raspberry-dolly.webp"
+  },
+  {
+    "slug": "sip-havmor-fruit-aam",
+    "name": "Havmor Aam Fruit Candy",
+    "oldImage": "/sip-n-scoop/v9/fruit-aam.webp",
+    "file": "fruit-aam.webp"
+  },
+  {
+    "slug": "sip-havmor-ice-kachcha-aam",
+    "name": "Havmor Kachcha Aam Ice Candy",
+    "oldImage": "/sip-n-scoop/v9/ice-kachcha-aam.webp",
+    "file": "ice-kachcha-aam.webp"
+  },
+  {
+    "slug": "sip-havmor-ice-orange-bar",
+    "name": "Havmor Orange Bar Ice Candy",
+    "oldImage": "/sip-n-scoop/v9/ice-orange-bar.webp",
+    "file": "ice-orange-bar.webp"
+  },
+  {
+    "slug": "sip-havmor-cup-butter-scotch",
+    "name": "Havmor Butter Scotch Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-butter-scotch.webp",
+    "file": "cup-butter-scotch.webp"
+  },
+  {
+    "slug": "sip-havmor-cup-vanilla-85",
+    "name": "Havmor Vanilla Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-vanilla-85.webp",
+    "file": "cup-vanilla-85.webp"
+  },
+  {
+    "slug": "sip-havmor-cup-vanilla-50",
+    "name": "Havmor Vanilla Mini Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-vanilla-50.webp",
+    "file": "cup-vanilla-50.webp"
+  },
+  {
+    "slug": "sip-havmor-cup-strawberry",
+    "name": "Havmor Strawberry Mini Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-strawberry.webp",
+    "file": "cup-strawberry.webp"
+  },
+  {
+    "slug": "sip-havmor-cup-tutti-frutti",
+    "name": "Havmor Tutti Frutti Mini Cup",
+    "oldImage": "/sip-n-scoop/v9/cup-tutti-frutti.webp",
+    "file": "cup-tutti-frutti.webp"
+  },
+  {
+    "slug": "sip-havmor-sundae-choco-brownie",
+    "name": "Havmor Choco Brownie Sundae Cup",
+    "oldImage": "/sip-n-scoop/v9/sundae-choco-brownie.webp",
+    "file": "sundae-choco-brownie.webp"
+  },
+  {
+    "slug": "sip-havmor-sundae-choco",
+    "name": "Havmor Choco Sundae Cup",
+    "oldImage": "/sip-n-scoop/v9/sundae-choco.webp",
+    "file": "sundae-choco.webp"
+  },
+  {
+    "slug": "sip-havmor-sundae-strawberry",
+    "name": "Havmor Strawberry Sundae Cup",
+    "oldImage": "/sip-n-scoop/v9/sundae-strawberry.webp",
+    "file": "sundae-strawberry.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-nutty-belgian-dark-chocolate",
+    "name": "Havmor Nutty Belgian Dark Chocolate Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-nutty-belgian-dark-chocolate.webp",
+    "file": "jumbo-nutty-belgian-dark-chocolate.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-rajbhog",
+    "name": "Havmor Rajbhog Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-rajbhog.webp",
+    "file": "jumbo-rajbhog.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-rajwadi-kulfi-falooda",
+    "name": "Havmor Rajwadi Kulfi Falooda Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-rajwadi-kulfi-falooda.webp",
+    "file": "jumbo-rajwadi-kulfi-falooda.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-kesar-pista",
+    "name": "Havmor Kesar Pista Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-kesar-pista.webp",
+    "file": "jumbo-kesar-pista.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-chocolate-chips",
+    "name": "Havmor Chocolate Chips Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-chocolate-chips.webp",
+    "file": "jumbo-chocolate-chips.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-premium-kaju-kishmish",
+    "name": "Havmor Premium Kaju Kishmish Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-premium-kaju-kishmish.webp",
+    "file": "jumbo-premium-kaju-kishmish.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-american-nuts",
+    "name": "Havmor American Nuts Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-american-nuts.webp",
+    "file": "jumbo-american-nuts.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-vanilla",
+    "name": "Havmor Vanilla Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-vanilla.webp",
+    "file": "jumbo-vanilla.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-dark-chocolate-zero-sugar",
+    "name": "Havmor Dark Chocolate Zero Sugar Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-dark-chocolate-zero-sugar.webp",
+    "file": "jumbo-dark-chocolate-zero-sugar.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-kesar-pista-zero-sugar",
+    "name": "Havmor Kesar Pista Zero Sugar Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-kesar-pista-zero-sugar.webp",
+    "file": "jumbo-kesar-pista-zero-sugar.webp"
+  },
+  {
+    "slug": "sip-havmor-jumbo-vanilla-zero-sugar",
+    "name": "Havmor Vanilla Zero Sugar Jumbo Cup",
+    "oldImage": "/sip-n-scoop/v9/jumbo-vanilla-zero-sugar.webp",
+    "file": "jumbo-vanilla-zero-sugar.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-matka",
+    "name": "Havmor Matka Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-matka.webp",
+    "file": "kulfi-matka.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-kashmiri-kesar",
+    "name": "Havmor Kashmiri Kesar Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-kashmiri-kesar.webp",
+    "file": "kulfi-kashmiri-kesar.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-chowpaty",
+    "name": "Havmor Chowpaty Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-chowpaty.webp",
+    "file": "kulfi-chowpaty.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-dryfruit-rabdi",
+    "name": "Havmor Dryfruit Rabdi Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-dryfruit-rabdi.webp",
+    "file": "kulfi-dryfruit-rabdi.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-raj-bhog",
+    "name": "Havmor Raj Bhog Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-raj-bhog.webp",
+    "file": "kulfi-raj-bhog.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-mava-tillewali",
+    "name": "Havmor Mava Tillewali Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-mava-tillewali.webp",
+    "file": "kulfi-mava-tillewali.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-shahi",
+    "name": "Havmor Shahi Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-shahi.webp",
+    "file": "kulfi-shahi.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-bombay",
+    "name": "Havmor Bombay Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-bombay.webp",
+    "file": "kulfi-bombay.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-rajwadi",
+    "name": "Havmor Rajwadi Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-rajwadi.webp",
+    "file": "kulfi-rajwadi.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-mava-malai",
+    "name": "Havmor Mava Malai Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-mava-malai.webp",
+    "file": "kulfi-mava-malai.webp"
+  },
+  {
+    "slug": "sip-havmor-kulfi-sf-malai",
+    "name": "Havmor SF Malai Kulfi",
+    "oldImage": "/sip-n-scoop/v9/kulfi-sf-malai.webp",
+    "file": "kulfi-sf-malai.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-rajbhog",
+    "name": "Havmor Rajbhog Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-rajbhog.webp",
+    "file": "brick-rajbhog.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-kesar-pista",
+    "name": "Havmor Kesar Pista Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-kesar-pista.webp",
+    "file": "brick-kesar-pista.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-american-nuts",
+    "name": "Havmor American Nuts Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-american-nuts.webp",
+    "file": "brick-american-nuts.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-almond-carnival",
+    "name": "Havmor Almond Carnival Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-almond-carnival.webp",
+    "file": "brick-almond-carnival.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-choco-brownie",
+    "name": "Havmor Choco Brownie Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-choco-brownie.webp",
+    "file": "brick-choco-brownie.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-chocolate-chips",
+    "name": "Havmor Chocolate Chips Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-chocolate-chips.webp",
+    "file": "brick-chocolate-chips.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-kaju-draksh",
+    "name": "Havmor Kaju Draksh Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-kaju-draksh.webp",
+    "file": "brick-kaju-draksh.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-alphonso-mango",
+    "name": "Havmor Alphonso Mango Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-alphonso-mango.webp",
+    "file": "brick-alphonso-mango.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-cookie-cream",
+    "name": "Havmor Cookie Cream Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-cookie-cream.webp",
+    "file": "brick-cookie-cream.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-black-currant",
+    "name": "Havmor Black Currant Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-black-currant.webp",
+    "file": "brick-black-currant.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-tutti-frutti",
+    "name": "Havmor Tutti Frutti Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-tutti-frutti.webp",
+    "file": "brick-tutti-frutti.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-crunchy-butter-scotch",
+    "name": "Havmor Crunchy Butter Scotch Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-crunchy-butter-scotch.webp",
+    "file": "brick-crunchy-butter-scotch.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-strawberry",
+    "name": "Havmor Strawberry Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-strawberry.webp",
+    "file": "brick-strawberry.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-vanilla",
+    "name": "Havmor Vanilla Brick Combo",
+    "oldImage": "/sip-n-scoop/v9/brick-vanilla.webp",
+    "file": "brick-vanilla.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-taj-mahal",
+    "name": "Havmor Taj Mahal Brick",
+    "oldImage": "/sip-n-scoop/v9/brick-taj-mahal.webp",
+    "file": "brick-taj-mahal.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-butterscotch-cookie",
+    "name": "Havmor Butter Scotch Cookie Brick",
+    "oldImage": "/sip-n-scoop/v9/brick-butterscotch-cookie.webp",
+    "file": "brick-butterscotch-cookie.webp"
+  },
+  {
+    "slug": "sip-havmor-brick-italian-cassata",
+    "name": "Havmor Italian Cassata Brick",
+    "oldImage": "/sip-n-scoop/v9/brick-italian-cassata.webp",
+    "file": "brick-italian-cassata.webp"
+  },
+  {
+    "slug": "sip-independence-water-750",
+    "name": "Independence Water 750 ml",
+    "oldImage": "/sip-n-scoop/v9/independence-water-750.webp",
+    "file": "independence-water-750.webp"
+  },
+  {
+    "slug": "sip-bisleri-1l",
+    "name": "Bisleri Water 1 L",
+    "oldImage": "/sip-n-scoop/v9/bisleri-1l.webp",
+    "file": "bisleri-1l.webp"
+  },
+  {
+    "slug": "sip-sprite-1l",
+    "name": "Sprite 1 L",
+    "oldImage": "/sip-n-scoop/v9/sprite-1l.webp",
+    "file": "sprite-1l.webp"
+  },
+  {
+    "slug": "sip-coca-cola-1l",
+    "name": "Coca-Cola 1 L",
+    "oldImage": "/sip-n-scoop/v9/coca-cola-1l.webp",
+    "file": "coca-cola-1l.webp"
+  },
+  {
+    "slug": "sip-thums-up-1l",
+    "name": "Thums Up 1 L",
+    "oldImage": "/sip-n-scoop/v9/thums-up-1l.webp",
+    "file": "thums-up-1l.webp"
+  },
+  {
+    "slug": "sip-thums-up-xforce-10",
+    "name": "Thums Up XForce",
+    "oldImage": "/sip-n-scoop/v9/thums-up-xforce-10.webp",
+    "file": "thums-up-xforce-10.webp"
+  },
+  {
+    "slug": "sip-campa-orange-10",
+    "name": "Campa Orange",
+    "oldImage": "/sip-n-scoop/v9/campa-orange-10.webp",
+    "file": "campa-orange-10.webp"
+  },
+  {
+    "slug": "sip-campa-cola-10",
+    "name": "Campa Cola",
+    "oldImage": "/sip-n-scoop/v9/campa-cola-10.webp",
+    "file": "campa-cola-10.webp"
+  },
+  {
+    "slug": "sip-raskik-nimbu-paani-10",
+    "name": "RasKik Nimbu Paani",
+    "oldImage": "/sip-n-scoop/v9/raskik-nimbu-paani-10.webp",
+    "file": "raskik-nimbu-paani-10.webp"
+  },
+  {
+    "slug": "sip-coke-zero-10",
+    "name": "Coke Zero",
+    "oldImage": "/sip-n-scoop/sip-coke-zero-10.svg",
+    "file": "sip-coke-zero-10.webp"
+  },
+  {
+    "slug": "sip-lemon-jeera-10",
+    "name": "Lemon Jeera",
+    "oldImage": "/sip-n-scoop/sip-lemon-jeera-10.svg",
+    "file": "sip-lemon-jeera-10.webp"
+  },
+  {
+    "slug": "sip-frooti-10",
+    "name": "Frooti",
+    "oldImage": "/sip-n-scoop/sip-frooti-10.svg",
+    "file": "sip-frooti-10.webp"
+  }
+]
